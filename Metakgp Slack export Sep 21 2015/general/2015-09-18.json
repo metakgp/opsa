@@ -1,0 +1,188 @@
+[
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Hey, I am trying to write the KRSSG page but I want to add a new info to infobox called \"Under SRIC\"",
+        "ts": "1442579876.000098"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "How do I do that?",
+        "ts": "1442579881.000099"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "You can edit the society infobox template, and add this field.",
+        "ts": "1442579928.000100"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "But be careful about adding ad hoc fields. You should only add things to the template that are relevant to at least a few societies. How many pages will use the \u201cUnder SRIC: yes\/no\u201d label?",
+        "ts": "1442580009.000101"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "All Research Groups",
+        "ts": "1442581443.000102"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "AGv KRSSG",
+        "ts": "1442581445.000103"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Quad",
+        "ts": "1442581447.000104"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Swarm",
+        "ts": "1442581448.000105"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "AUV",
+        "ts": "1442581453.000106"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "And like MetaKgp can be a group if we call it on",
+        "ts": "1442582703.000107"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "*one",
+        "ts": "1442582705.000108"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "which is No for both",
+        "ts": "1442582708.000109"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3> Do you think we should make a new infobox for student research groups?",
+        "ts": "1442583924.000112"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Since it should have professor names too.",
+        "ts": "1442583941.000113"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Or just add another field in this ?",
+        "ts": "1442583963.000114"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "KRSSG Done.",
+        "ts": "1442595950.000115"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<https:\/\/wiki.metakgp.org\/w\/KRSSG>",
+        "ts": "1442595950.000116"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Please proof-read",
+        "ts": "1442595955.000117"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Re-organised Robotics page",
+        "ts": "1442597166.000118"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Made CFER page.",
+        "ts": "1442597174.000119"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "How do I create pages?",
+        "ts": "1442613192.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I tried so hard to find an option to do so :confused:",
+        "ts": "1442613205.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "It's a really strange interface. You need to type in the name of your new page in the search bar. Then, when it shows that no such page exists, you click on Create page. ",
+        "ts": "1442622325.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Alternatively, you can type in the url of your new page directly.  Remember to use the right url encoded symbols for special characters :P",
+        "ts": "1442622382.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHQ8HD3>: But the pro is that it prevents the 'let's create this' instinct of people without ever making an effort to search.",
+        "ts": "1442640747.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Which is quite frequent in programming help forums, for example.",
+        "ts": "1442640758.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Very nice work <@U0AKU18CW>!",
+        "ts": "1442641006.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Arigato.",
+        "ts": "1442641060.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AHSU2KF> I can see the sense in that argument, but I think it dissuades people a bit too much. A better interface might be to let you type in the name of your new page, but then show you a list of search results and ask if you're sure it doesn't already exist. ",
+        "ts": "1442642719.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "It's quite close to what you have said. But yeah, I'm not defending them :stuck_out_tongue:",
+        "ts": "1442642775.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0APA9ZUP>: See the discussion on <#C0AHUF5R7> a while back about convincing societies to release their logos under CC.",
+        "ts": "1442644940.000008"
+    }
+]

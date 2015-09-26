@@ -1,0 +1,757 @@
+[
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "Hi",
+        "ts": "1442232725.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AHQ8HD3>: Firefox club was mainly for promotion of firefox and attracting its developers",
+        "ts": "1442232777.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "This is better because we can start new channels for different workstreams, and coordinate better.",
+        "ts": "1442233205.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AHSU2KF>: The slack app works fine for me on Desktop - did you mean mobile?",
+        "ts": "1442233238.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Yeah.",
+        "ts": "1442233246.000006"
+    },
+    {
+        "user": "U0AKGKRST",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442233260.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "As far as opening the map location in Google map is considered, I think there's a {{coord}} template that allows embedding location coordinates in the article, which can be opened with suitable app.",
+        "ts": "1442233337.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Hmm. I wish the Slack app worked over the proxy, but I think the other useful features it provides probably still makes it worth it.",
+        "ts": "1442233522.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I wish people not on Slack could just go to <http:\/\/metakgp.slack.com|metakgp.slack.com>, and participate (at least in <#C0AHUF5R7>)",
+        "ts": "1442233612.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Like IRC",
+        "ts": "1442233622.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "How does it work fine in browser?",
+        "ts": "1442233670.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "It fails to connect for me on browser too",
+        "ts": "1442233678.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I remember having such issue in KLUG thread.",
+        "ts": "1442233693.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Please check if you have something in your socks proxy field.",
+        "ts": "1442233702.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "If yes, delete it.",
+        "ts": "1442233707.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "It should work fine then.",
+        "ts": "1442233710.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Cool. SOlved.",
+        "ts": "1442233942.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "This is cool.",
+        "ts": "1442233953.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "So, we should have different rooms for different pages.",
+        "ts": "1442233961.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Or Channels for that matter.",
+        "ts": "1442233969.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "We can have different \u201cchannels\u201d (which are like rooms) for different work streams. If many pages come under the same work stream, they can all go into the same channel.",
+        "ts": "1442233993.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Let's say we are working on the _page of the week_, then we can dedicate a channel for all its related discussion.",
+        "ts": "1442234067.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yep.",
+        "ts": "1442234081.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "This is fun: <https:\/\/wiki.metakgp.org\/w\/Special:ContributionScores>",
+        "ts": "1442234401.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Seems like I'm being approached very steadily :stuck_out_tongue:",
+        "ts": "1442234457.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Ahh! It's exam time. I will catchup. :smile:",
+        "ts": "1442234485.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I can\u2019t believe I\u2019ve been surpassed on all time contributions :stuck_out_tongue:",
+        "ts": "1442234568.000028"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0AHQ8HD3",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 14th, 2015 5:40 AM] amrav: This is fun: <https:\/\/wiki.metakgp.org\/w\/Special:ContributionScores>",
+                "author_subname": "amrav",
+                "ts": 1442234401,
+                "text": "This is fun: <https:\/\/wiki.metakgp.org\/w\/Special:ContributionScores>",
+                "author_name": "Vikrant Varma",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/amrav",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/2639272b28fda236c5c163d38a96bee6.jpg?s=48&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F66f9%2Fimg%2Favatars%2Fava_0005-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0AHQ8HD3|amrav> pinned a message to this channel.",
+        "ts": "1442234622.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oh Oh Make a Chart of this Real TIme",
+        "ts": "1442234658.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "using 3djs",
+        "ts": "1442234664.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "and put in on the main page :stuck_out_tongue:",
+        "ts": "1442234678.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Can everyone please add other members of the Metakgp team whose email ids you know, to this slack?",
+        "ts": "1442234908.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "ok So, I wanted to discuss how to decide what page should be a metakgp wiki and where we should link to an external website?",
+        "ts": "1442234928.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I think there should be a fixed criteria to decide this.",
+        "ts": "1442234942.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I think the criteria is roughly: If something is important by itself, it should be on the wiki, either as a page, or as  a section on a page, depending on how much information there is. External links should only be used as references.",
+        "ts": "1442235017.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "\"important\" needs to be objective",
+        "ts": "1442235042.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I think we should not have wikis of profs",
+        "ts": "1442235056.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But, then",
+        "ts": "1442235061.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "we should have too considering we might want to put information on how good\/bad tehy are and courses they take",
+        "ts": "1442235082.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "eventually",
+        "ts": "1442235085.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Things like this and should we have a TSG wiki",
+        "ts": "1442235114.000042"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "or we can just link teh TSG page",
+        "ts": "1442235122.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I think the bar for important is: is any editor willing to take the trouble to create a page for that topic. An external link is the easiest thing to do, second easiest is a section on an existing page, and highest effort is a new page.",
+        "ts": "1442235156.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "If there\u2019s a lot of information to put about a prof, especially from across multiple sources, I would definitely want to write a wiki page about him\/her.",
+        "ts": "1442235197.000045"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "What about TSG?",
+        "ts": "1442235229.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "TSG should definitely have its own wiki page.",
+        "ts": "1442235240.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "hmm.",
+        "ts": "1442235250.000048"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "There\u2019s a lot of stuff to write about TSG.",
+        "ts": "1442235255.000049"
+    },
+    {
+        "user": "U0AKJ9GET",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKJ9GET|whiplash> has joined the channel",
+        "ts": "1442235287.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Interesting.",
+        "ts": "1442235305.000051"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I\u2019ve added Adarsh to the team. He graduated this year, but has vast experience about KGP, and a ton of other things too numerous to mention right now.",
+        "ts": "1442235339.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Ok 1. I think we should have meta-kgp X-Labs Page",
+        "ts": "1442235340.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yeah, for sure!",
+        "ts": "1442235781.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Also, does anyone know Siddharth Kannan?",
+        "ts": "1442235791.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I don't know him personally but I have met him.",
+        "ts": "1442235851.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "AUV CS Guy I think",
+        "ts": "1442235859.000057"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Mech guy :open_mouth:",
+        "ts": "1442235935.000058"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "<@U0AHSU2KF>: TSA rarely owns images. We ask friends and share with credits",
+        "ts": "1442236412.000059"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Let's start some threads for various things we have planned in the immediate future?",
+        "ts": "1442236736.000060"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "+1",
+        "ts": "1442236776.000061"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "@Vikrant how do I upload images?",
+        "ts": "1442237276.000062"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3>:",
+        "ts": "1442237283.000063"
+    },
+    {
+        "user": "U0AKR593L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKR593L|abhishek> has joined the channel",
+        "ts": "1442237726.000064"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: Click on upload file on the left.",
+        "ts": "1442237751.000065"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oh!",
+        "ts": "1442237781.000066"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Also, <@U0AHQ8HD3>  Did you go through the page? What all is needed to get it featured",
+        "ts": "1442237811.000067"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "?",
+        "ts": "1442237812.000068"
+    },
+    {
+        "type": "message",
+        "user": "U0AKR593L",
+        "text": "hey",
+        "ts": "1442237849.000069"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Hey <@U0AKR593L>",
+        "ts": "1442237878.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Also, <@U0AKR593L> I was planning to write a page on HM. Can you help me with it?",
+        "ts": "1442237913.000071"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I would need all HMs of past from all halls if they are willing to share images\/documentation.",
+        "ts": "1442237939.000072"
+    },
+    {
+        "type": "message",
+        "user": "U0AKR593L",
+        "text": "is the page there yet?",
+        "ts": "1442237950.000073"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Nopes",
+        "ts": "1442237955.000074"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "We do ot have the relevant info yet",
+        "ts": "1442237963.000075"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "*not",
+        "ts": "1442237967.000076"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "There is too much to cover in that actually and it will be brilliant if we can cover it all.",
+        "ts": "1442238005.000077"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "or even 3 years in past.",
+        "ts": "1442238017.000078"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: I have to make some edits for structure and consistency. I\u2019ll do it tomorrow (after bioinformatics), or <@U0AJEBGBU> , <@U0AHSU2KF> or anyone else can pitch in too.",
+        "ts": "1442238075.000079"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oh!",
+        "ts": "1442238097.000080"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Then I will move to a new pag for today.",
+        "ts": "1442238104.000081"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "*page",
+        "ts": "1442238122.000082"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Cool. Sorry about the delay.",
+        "ts": "1442238245.000083"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "There should ben issue tracker for pages. :confused:",
+        "ts": "1442238249.000084"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I forgot all thngs I wanted to correct yesterday :confused:",
+        "ts": "1442238263.000085"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "That\u2019s exactly what the talk page is supposed to be. You can add a TODO section.",
+        "ts": "1442238283.000086"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I realised today and did today :stuck_out_tongue:",
+        "ts": "1442238299.000087"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: When adding references, you can use ProveIt (on the bottom right side). It\u2019s much easier, and encourages consistency.",
+        "ts": "1442238440.000088"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "This only works in source edit mode, which you should be using if you\u2019re making a lot of edits, I think.",
+        "ts": "1442238485.000089"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "yea",
+        "ts": "1442238508.000090"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Got it.",
+        "ts": "1442238510.000091"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Spam alert: somebody changed everything on the HHFH page to refer to anime.",
+        "ts": "1442241480.000092"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: I meant you can use the Robotics page\u2019s Talk page to list tasks to be completed.",
+        "ts": "1442241678.000093"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Your own talk page is meant for other people to message you on.",
+        "ts": "1442241696.000094"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oh",
+        "ts": "1442242289.000095"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Wow, they persisted even after I rolled back the edit.",
+        "ts": "1442242317.000096"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I\u2019ve protected the page to be editable only be registered users for one week.",
+        "ts": "1442242337.000097"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "dafuq?",
+        "ts": "1442242406.000098"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Midsem frustapa's side effects :stuck_out_tongue:",
+        "ts": "1442242421.000099"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3>: I would like to maintain my own todo somewhere so I think my talk seems to be the best place.",
+        "ts": "1442242534.000100"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: Instead, you can make a section on your user page, or you can create a subpage of your user page. Example: \/w\/User:Dementor\/TODO.",
+        "ts": "1442242588.000101"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AHSU2KF>: What\u2019s the template for indicating a section is empty, and needs to be filled in?",
+        "ts": "1442243030.000102"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "{{empty section}}",
+        "ts": "1442244092.000103"
+    },
+    {
+        "user": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKU18CW|himanshu> has joined the channel",
+        "ts": "1442244100.000104"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHQ8HD3>: Can you send an invitation to all the hangout members?",
+        "ts": "1442244277.000105"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Unfortunately, no. Hangouts doesn\u2019t show their email ids, and Slack doesn\u2019t let you send invites through a link.",
+        "ts": "1442244316.000106"
+    },
+    {
+        "user": "U0AKV0F0W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKV0F0W|mitpal> has joined the channel",
+        "ts": "1442244871.000107"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<mailto:palashmittal1507@gmail.com|palashmittal1507@gmail.com>",
+        "ts": "1442244899.000108"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "and <mailto:kumar.1994.14@gmail.com|kumar.1994.14@gmail.com>",
+        "ts": "1442244911.000109"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Random thought: what do you think about asking instiinfo guys to join us?",
+        "ts": "1442245284.000110"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "If they have the same intention as us then makes sense, but to me I smell that they plan to add ads on the website and earn over time.",
+        "ts": "1442245389.000111"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Seems to me. I might be wrong.",
+        "ts": "1442245395.000112"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Also, they are an information website. I don't think they care about the history. I prefer wiki because of that majorly.",
+        "ts": "1442245762.000113"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I also think they plan to put ads on the website later, after we are more comprehensive they are redundant, but we should at least talk to them and see if they are interested in joining us.",
+        "ts": "1442246094.000114"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Somehow, way more people know about instiinfo than metakgp.",
+        "ts": "1442246208.000115"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "They started out earlier and they were heavy on PR",
+        "ts": "1442246296.000116"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "we'll get popular too",
+        "ts": "1442246303.000117"
+    },
+    {
+        "type": "message",
+        "user": "U0AKV0F0W",
+        "text": "I think they are just trying to develop their web development or design skills. And create something useful out of it.",
+        "ts": "1442246346.000118"
+    },
+    {
+        "type": "message",
+        "user": "U0AKV0F0W",
+        "text": "Also it seems they are more inclined towards providing information than generating revenue. But of course we can always ask.",
+        "ts": "1442246475.000119"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3>: They put posters and notices in LBS, the largest resident hall on campus :stuck_out_tongue:",
+        "ts": "1442246518.000120"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Hmm. If they actually care about providing information, we might gain a few valuable contributors. Also, they seem to have done quite a bit of legwork, going to DepC students and such.",
+        "ts": "1442246698.000121"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Clearly their website has a very different philosophy, but they may just not have thought of this one, or thought it would be viable.",
+        "ts": "1442246744.000122"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442247796.000123"
+    }
+]

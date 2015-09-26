@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442236899.000002"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "purpose": "Ideas that we think will will get a lot of eyeballs for metakgp. But most importantly, are cool.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHU8RU0|nuwanda> set the channel purpose: Ideas that we think will will get a lot of eyeballs for metakgp. But most importantly, are cool.",
+        "ts": "1442236900.000003"
+    },
+    {
+        "user": "U0AKGKRST",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442237166.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Drone Videos :smile:",
+        "ts": "1442237184.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "3D Augmented Tour of Campus -&gt; Floor Wise Maps",
+        "ts": "1442237232.000006"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442237607.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "d3js real time stats of contribution",
+        "ts": "1442243316.000008"
+    },
+    {
+        "user": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKU18CW|himanshu> has joined the channel",
+        "ts": "1442245208.000009"
+    },
+    {
+        "user": "U0AJEBGBU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442247820.000010"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442286107.000002"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442299582.000002"
+    }
+]

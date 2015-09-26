@@ -1,0 +1,244 @@
+[
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3>: You should set an icon for the slack team too. It is the default one. :stuck_out_tongue:",
+        "ts": "1442394875.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Hi <@U0APA9ZUP>",
+        "ts": "1442403136.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Hi <!channel> , thanks for adding me! :simple_smile:",
+        "ts": "1442403159.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AHSU2KF>: I've added the option for people in the \"uploadaccess\" group to be able to upload files directly to the wiki. When you do so, you get the option to use a non free license, for a logo. ",
+        "ts": "1442403209.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0APA9ZUP>: we really appreciated your contributions, and figured it would be  nice to have you more closely involved with day to day planning, if you want :) ",
+        "ts": "1442403427.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: Thanks a lot for the inclusion! Yes, certainly, I would be happy to be involved.",
+        "ts": "1442403569.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AJEBGBU>: Can you ask Priyam or Ram to make a page on KLUG? ",
+        "ts": "1442403870.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Also, I'd like to propose a convention for listing achievements. If we need to list the winners of certain events, they should go into a table on the event's page (for example GC). Hall pages should not each re-list the winners from their halls, but instead link to the results table. They can however give aggregate statistics, or other commentary about the results. See for example the LBS page, that re-lists the winners of last year's GC events. ",
+        "ts": "1442404202.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHQ8HD3>: It's unlikely that they'll have time for it. Although, we can push it in the KLUG slack channel to be contributed by anyone who wants to.",
+        "ts": "1442405843.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I am not quite inclined in the favor of this convention.",
+        "ts": "1442405873.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I guess we should do it ourselves and ask them for specific inputs",
+        "ts": "1442405897.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "We can list individual achievements and at the same time give a `See also` link to `List of all GC winners`. I guess that's how it is in general for most of Wikipedia's pages as well.",
+        "ts": "1442405991.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "What would be the best way to write a script that would act like a `rendering-correcter`?\n\n(It would take a URL as input and then spit out corrected entry with following problems fixed)\n\n- Fix phone number rendering\n- Fix broken links to wikipedia (links that have been entered as `[[Google]]` instead of `[[wikipedia:Google|]]`)\n\nUnless of course, there's a better way to do this! \n\nWe could have multiple scripts like these for different problems.\n\nOpinions: <@U0AJEBGBU> , <@U0AHQ8HD3> ?",
+        "ts": "1442407073.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Can people like the Metakgp post on Facebook to get some traction?",
+        "ts": "1442407373.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "^What do you mean?",
+        "ts": "1442407403.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I just posted a \"constitution fun fact\u201d on the Metakgp facebook page. If more people like it, it\u2019ll gain visibility.",
+        "ts": "1442407477.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0APA9ZUP>: I\u2019m not sure exactly how this would work, but you could look at writing a mediawiki bot.",
+        "ts": "1442407515.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I think they can do things like check for the existence of pages, and automatically correct dead links if there\u2019s something at that location in Wikipedia.",
+        "ts": "1442407544.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "You should be able to fix phone number rendering through regexes, although it would be slightly tricky. Perhaps better is for the bot to simply flag what it detects as incorrectly formatted phone numbers.",
+        "ts": "1442407622.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Should be an interesting project.",
+        "ts": "1442407638.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: Yeah, thanks! I will look into this! \n\nYes, it would certainly be an interesting project.",
+        "ts": "1442407681.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "The gymkhana constitution page seems to reduce the average quality of metakgp :open_mouth:",
+        "ts": "1442407691.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Maybe we should volunteer to write it again :stuck_out_tongue:",
+        "ts": "1442407766.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: Hahaha",
+        "ts": "1442409657.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Point #17 You found 17 fun facts :open_mouth:",
+        "ts": "1442409717.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Nah, I just picked a random number, implying there were others to come :stuck_out_tongue:",
+        "ts": "1442409809.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0APA9ZUP>: One way to achieve consistency is to extensively use templates. For example, create a `contact` template which when simply provided a number formats it according to the rules. These would loosely be what you call _rendering-correcter_. While, what we use are pretty simple ones, they can be pretty complicated based on how you code them using intricate Lua patterns.",
+        "ts": "1442411964.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I think what he means is how do we correct existing incorrectly formatted things automatically, although having a template for this makes a lot of sense. ",
+        "ts": "1442412152.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Templates are powered by Lua module, and it is should be easy to write on based on already existing templates (on Wikipedia) .",
+        "ts": "1442412164.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHQ8HD3>: That's where big careful from start helps a bit. Otherwise, it will _certainly_ pile up as manual labor later.",
+        "ts": "1442412200.000031"
+    },
+    {
+        "user": "U0AQ1LRBQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AQ1LRBQ|twistin> has joined the channel",
+        "ts": "1442415999.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AHSU2KF>: Nice work with the <https:\/\/wiki.metakgp.org\/w\/Subway> page!",
+        "ts": "1442428506.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "The main page now has a Trending section, defined as the top ten landing pages ordered by number of new unique users over the last 7 days. A landing page is the page a visitor enters the website from. A new user is someone who hasn\u2019t visited the wiki before.",
+        "ts": "1442430717.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "wow we used to have a KLUG back in 2004",
+        "ts": "1442440420.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<https:\/\/groups.yahoo.com\/neo\/groups\/slashkgp\/info>",
+        "attachments": [
+            {
+                "title": "Linux Users Group@IITKGP",
+                "title_link": "https:\/\/groups.yahoo.com\/neo\/groups\/slashkgp\/info",
+                "text": "A group of people here to share their experiences with GNU\/Linux.And much more",
+                "fallback": "Linux Users Group@IITKGP",
+                "from_url": "https:\/\/groups.yahoo.com\/neo\/groups\/slashkgp\/info",
+                "thumb_url": "https:\/\/s1.yimg.com\/dh\/ap\/default\/130909\/y_200_a.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1
+            }
+        ],
+        "ts": "1442440422.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<!everyone>: I found this very old website from 2003 created by people in D-top wing in RK. <http:\/\/rkdtw.tripod.com\/dtw\/index.html>",
+        "ts": "1442444380.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "They also have a link to a website of RK hall which ofcourse doesn't exist now. The website is so old that <http:\/\/archive.org|archive.org> wasn't even born yet. :smile:",
+        "ts": "1442444550.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "They also have some photographs of rangoli of their time <http:\/\/rkdtw.tripod.com\/dtw\/album1.html>",
+        "ts": "1442444712.000007"
+    }
+]

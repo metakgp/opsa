@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U0APA9ZUP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0APA9ZUP|icyflame> has joined the channel",
+        "ts": "1442512875.000002"
+    },
+    {
+        "user": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKU18CW|himanshu> has joined the channel",
+        "ts": "1442558021.000002"
+    }
+]

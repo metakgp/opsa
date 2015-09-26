@@ -1,0 +1,578 @@
+[
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Interesting :open_mouth:",
+        "ts": "1442486719.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I was wondering, one of the most difficult tasks for a researcher is to find people working on similar fields in the world. So, to make things easier for Kgp. How about a reverse prof search? Like now, if you need, you need to go to a profs page and see about him and then do a linear search on all profs. What if we type interests and we get names of profs working on similar fields?",
+        "ts": "1442486847.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Also, on a parallel note, We should have a questionnaire format for alums to get more information about History of Kgp. Like I have lots of relatives who are alums and they have told me lots of stories too over 5 years about Kgp which are part of history but if I want to document it, I can\u2019t really think of it now. So maybe a questionnaire that we can ask them and then do whatever we want with them?",
+        "ts": "1442487002.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "A suggestion for the main page : What about having a section of 'Did you know...' on the main page with some antique or really cool facts\/stories about any personality, place etc. which really makes the first visit little more interesting for a new user?\nIt's there on the Wikipedia main page. And having that for KGP will be cool. What do other people think about this?",
+        "ts": "1442498243.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "+1 I think we can create a new channel to discuss these did you knows before deciding them to be put up",
+        "ts": "1442498390.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "+1 This is similar to the constitution fun facts, but more general.",
+        "ts": "1442498627.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "+1 for reverse prof search",
+        "ts": "1442521232.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AJEBGBU> I'm not sure on the best way to do this yet. Scraping kgp site sure is a way to start but something better you can think?",
+        "ts": "1442521535.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "scraping <http:\/\/iitkgp.ac.in|iitkgp.ac.in> should do it",
+        "ts": "1442521581.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "We can scrape publications and research projects of all profs?",
+        "ts": "1442521588.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Yup, should be simple enough",
+        "ts": "1442521602.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "pages of professors give their research areas",
+        "ts": "1442521607.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Yeah. Let's do this by the weekend?",
+        "ts": "1442521634.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Second metaX project, this can be",
+        "ts": "1442521655.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I'm in",
+        "ts": "1442521685.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Vikrant and I were discussing about making the box on mfqp a one stop person\/place finder",
+        "ts": "1442521732.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "This should be a good place to start",
+        "ts": "1442521749.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "So, research projects, publications and courses they take here?",
+        "ts": "1442521799.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "That should do, right?",
+        "ts": "1442521827.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "We could also link everything back to the wiki and drive more traffic",
+        "ts": "1442521851.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "True",
+        "ts": "1442522050.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "mfqp website doesn't link back to metaKGP",
+        "ts": "1442522060.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Yup. We could have prof pages up and running.",
+        "ts": "1442522080.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "And link everything back to that",
+        "ts": "1442522087.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "another thing we can do is to give how \"close\" is your area of interest to the area of interest of some other prof. I'm hoping we'll be able to find some \"distance matrix\" for areas of research in existing research.",
+        "ts": "1442522595.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "this can be extended to profs at foreign universities",
+        "ts": "1442522673.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I'm in too",
+        "ts": "1442522966.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But are we planning to make wiki pages of all profs?",
+        "ts": "1442523084.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Actually that's not a bad idea if it's automated which should be fairly easy",
+        "ts": "1442523102.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Since all profs have same page format",
+        "ts": "1442523114.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "We should ideally have. Profs themselves can write about their research etc",
+        "ts": "1442523127.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But how do we create wiki pages like that? They need a captcha to be filled right?",
+        "ts": "1442523142.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Ooo a mass mail to Profs to do so?  :stuck_out_tongue: ",
+        "ts": "1442523176.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But most will ignore actually",
+        "ts": "1442523197.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "I was talking to vikrant about this. If we get one cool prof",
+        "ts": "1442523346.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "it'll be so cool",
+        "ts": "1442523350.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "DD or dean sa",
+        "ts": "1442523406.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Won't mind I think",
+        "ts": "1442523409.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Even dean alumni",
+        "ts": "1442523415.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Actually dean alumni",
+        "ts": "1442523427.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Would be best",
+        "ts": "1442523431.000042"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "He's awesome",
+        "ts": "1442523433.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "He's kgp grad",
+        "ts": "1442523436.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "He's friendly",
+        "ts": "1442523439.000045"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "And since our aim is to preserve history",
+        "ts": "1442523447.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "This will be cool",
+        "ts": "1442523451.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "let's reach out to him over the weekend?",
+        "ts": "1442523455.000048"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Let's meet once over the weekend",
+        "ts": "1442523479.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "To discuss our future endeavours",
+        "ts": "1442523483.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "And divide stuff a bit",
+        "ts": "1442523489.000051"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Vikrant won't be here. :confused:",
+        "ts": "1442523505.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oh yea!",
+        "ts": "1442523517.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Poor him then. He is missing the excitement for food and ac ",
+        "ts": "1442523537.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "As we go out and change the world",
+        "ts": "1442523548.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": ":sunglasses: ",
+        "ts": "1442523553.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "He can join us on slack though",
+        "ts": "1442523582.000057"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "It can be integrated with <http:\/\/appear.in|appear.in>",
+        "ts": "1442523594.000058"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": ":grin:",
+        "ts": "1442523608.000059"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I know. It's cool.",
+        "ts": "1442523876.000060"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I think we should do that next week though",
+        "ts": "1442523889.000061"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I don't think we should mail",
+        "ts": "1442523899.000062"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "We should meet them",
+        "ts": "1442523906.000063"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "And for deans it's better to take appointments",
+        "ts": "1442523914.000064"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Cool. Let's meet and flesh this out",
+        "ts": "1442523997.000065"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "We should approach sidmuk as fifth years trying to \"pen down the feel of kgp\" so we don't miss it as much ",
+        "ts": "1442524042.000066"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": ":stuck_out_tongue: ",
+        "ts": "1442524043.000067"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "XD",
+        "ts": "1442524052.000068"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Whatever works man. :stuck_out_tongue:",
+        "ts": "1442524071.000069"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": ":joy: ",
+        "ts": "1442524078.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "We should approach him saying he is best",
+        "ts": "1442524089.000071"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But we should know very well as what he wants from us",
+        "ts": "1442524114.000072"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I mean what we want from me",
+        "ts": "1442524124.000073"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I should sleep :confused: ",
+        "ts": "1442524134.000074"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "From him",
+        "ts": "1442524140.000075"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Ughh..",
+        "ts": "1442524142.000076"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "But I'm sure he knows what we want from you.",
+        "ts": "1442524311.000077"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Comon somu",
+        "ts": "1442524318.000078"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I'm off. I think I sleep texting which hasn't really helped me. ",
+        "ts": "1442524382.000079"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "<@U0AKGKRST>: I had such an embarrassing experience recently. I pushed a commit on GitHub during sleep and only after 8 hours I came to know that it contained some cryptic words which I don't remember typing. :confused:",
+        "ts": "1442529913.000080"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "That's funny :simple_smile:",
+        "ts": "1442545358.000081"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<!everyone>: I think holacracy would be a good fit for metakgp. It is new organisational methodology which eliminates hierarchy of traditional organization but maintains structure and efficiency. Medium and a subsidy of Amazon called Zappos are a few big names which use holacracy. <https:\/\/static-cdn.blinkist.com\/ebooks\/Blinkracy-Blinkist.pdf>",
+        "ts": "1442545562.000082"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: It\u2019s not difficult to write a bot that will auto-create prof pages based on some template. Bots are exempt from captchas. These prof pages can also have semantic mark up that serves as a searchable, typed database. See <https:\/\/en.wikipedia.org\/wiki\/Semantic_wiki.> That would also be a pretty awesome project to implement nationwide. Imagine being able to match research interests with profs from any institute, and then be able to see similar research projects, degrees of collaboration, etc.",
+        "ts": "1442549458.000083"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Wikidata is another alternative to Semantic Wiki: <https:\/\/www.wikidata.org\/wiki\/Wikidata:Main_Page> (check out the showcase about Douglas Adams).",
+        "ts": "1442549878.000084"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Awesome. Let's do this. :D",
+        "ts": "1442550978.000085"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHQ8HD3>: Automating the problem is hardly ever a rate limiting step in this case. The problem comes to having the right data (and a lot of it) in right place. But indeed, it'll be useful to have a framework from the start.",
+        "ts": "1442556248.000086"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Can we pitch VP to get small location trackers installed in buses in the context of extra security? I think institute buses ride outside campus as such and in such cases it might actually be a requirement than luxury.",
+        "ts": "1442556319.000087"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "s\/as such\/as well",
+        "ts": "1442556339.000088"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Let\u2019s just do it ourself :stuck_out_tongue:",
+        "ts": "1442556343.000089"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "No one will ever know",
+        "ts": "1442556353.000090"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": ":stuck_out_tongue:",
+        "ts": "1442556354.000091"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Yeah. But we'll gain much larger audience and good will of people in former case.",
+        "ts": "1442556388.000092"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Which will be pretty cool.",
+        "ts": "1442556393.000093"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "dementor: Seems like you have some experience in installing location trackers, all by yourself.",
+        "ts": "1442556521.000094"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": ":cold_sweat:",
+        "ts": "1442556532.000095"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Let\u2019s not go there. \n&lt;I am a secret agent by night&gt;",
+        "ts": "1442556571.000096"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Or the sudden thing can work out pretty well as well! yum :smile:",
+        "ts": "1442557891.000097"
+    }
+]

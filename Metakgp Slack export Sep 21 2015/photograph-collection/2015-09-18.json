@@ -1,0 +1,387 @@
+[
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442579359.000002"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442579872.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Does anyone have any idea how we can get photographs of GC 2014-15 events?",
+        "ts": "1442579874.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Any of you know the current\/previous photography secretaries?",
+        "ts": "1442580907.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "It will be really good if we work on this quickly. And get the Photographs released.",
+        "ts": "1442580951.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "I can talk to Atal if we know what we want from the admin. Let's talk to the secy and find out how\/where they store the images.",
+        "ts": "1442581011.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Asid is on campus and he wants us to give him the list soon",
+        "ts": "1442582676.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "since he has fast net here",
+        "ts": "1442582679.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": ":confused:",
+        "ts": "1442582681.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AKGKRST>: What are we waiting for. Let's grab the most of the it.",
+        "ts": "1442585189.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AJEBGBU>: Any updates on when Subhjoy is going to upload the photos of night canteens, if not done already",
+        "ts": "1442585207.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHSU2KF> Can you help me in making a list. There are too many pictures to go through. :confused:",
+        "ts": "1442585250.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "He'll edit the photographs this weekend and then we can add them",
+        "ts": "1442585252.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Yeah. Please post the link here. We all can help.",
+        "ts": "1442585270.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "yup",
+        "ts": "1442585275.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "we also need to send the list of photographs to Ashay",
+        "edited": {
+            "user": "U0AJEBGBU",
+            "ts": "1442585301.000000"
+        },
+        "ts": "1442585294.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<https:\/\/www.facebook.com\/Asidity\/photos_stream?tab=photos_albums>",
+        "ts": "1442585310.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Also, can you please mark which albums you are sorting so that we don't duplicate work?",
+        "ts": "1442585381.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I am yet to start.",
+        "ts": "1442585406.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "You can divide and tell me.",
+        "ts": "1442585414.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "you can add the links on this hackpad",
+        "ts": "1442585492.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<https:\/\/hackpad.com\/Photographs-Asidity-69ygYAF9iT8>",
+        "ts": "1442585493.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I'm taking the choreo collection",
+        "ts": "1442585508.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I'll take all WTMS.",
+        "ts": "1442585540.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "KGP, Illu, SF remain.",
+        "ts": "1442585592.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "There could be interesting photos in other albums as well.",
+        "ts": "1442585604.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "Choreo is small I'll go after Illu then",
+        "ts": "1442585678.000029"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0AHSU2KF",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 18th, 2015 7:08 AM] dementor: <https:\/\/www.facebook.com\/Asidity\/photos_stream?tab=photos_albums>",
+                "author_subname": "dementor",
+                "ts": 1442585310,
+                "text": "<https:\/\/www.facebook.com\/Asidity\/photos_stream?tab=photos_albums>",
+                "author_name": "Soumyadeep Mukherjee",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/dementor",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2015-09-14\/10664460352_872a879cfb896be3d26e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0AHSU2KF|xtinct> pinned a message to this channel.",
+        "ts": "1442585720.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AHSU2KF>: are you able to access the hackpad?",
+        "ts": "1442585919.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Roger.",
+        "ts": "1442585946.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "no edits from you?",
+        "ts": "1442586278.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AKGKRST>: can you access the hackpad?",
+        "ts": "1442586286.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I am a bit occupied on urgent iGEM task. Will get back to it in a while.",
+        "ts": "1442586314.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "coo",
+        "ts": "1442586352.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "*cool",
+        "ts": "1442586354.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I'm done with illu 13",
+        "ts": "1442586467.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "gotta go now",
+        "ts": "1442586470.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Yea I can.",
+        "ts": "1442586488.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I\u2019ll do SF then.",
+        "ts": "1442586507.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "in 30 mins",
+        "ts": "1442586514.000042"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0AHSU2KF",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 18th, 2015 7:11 AM] hargup: <https:\/\/hackpad.com\/Photographs-Asidity-69ygYAF9iT8>",
+                "author_subname": "hargup",
+                "ts": 1442585493,
+                "text": "<https:\/\/hackpad.com\/Photographs-Asidity-69ygYAF9iT8>",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/hargup",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a59bb70d2e6bee52c15a54aaafc808b8.jpg?s=48&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F66f9%2Fimg%2Favatars%2Fava_0009-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0AHSU2KF|xtinct> pinned a message to this channel.",
+        "ts": "1442586690.000043"
+    },
+    {
+        "text": "is done with WTMS.",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U0AHSU2KF",
+        "ts": "1442587346.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Done with SF and Random Kgp",
+        "ts": "1442589384.000045"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I am sending it to Asid",
+        "ts": "1442589389.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Done - <https:\/\/www.flickr.com\/photos\/dreamerasid\/>",
+        "attachments": [
+            {
+                "service_name": "Flickr - Photo Sharing!",
+                "title": "Siddharth Agarwal",
+                "title_link": "https:\/\/www.flickr.com\/photos\/dreamerasid\/",
+                "text": "Explore Siddharth Agarwal's 321 photos on Flickr!",
+                "fallback": "Flickr - Photo Sharing!: Siddharth Agarwal",
+                "thumb_url": "https:\/\/c2.staticflickr.com\/6\/5637\/21524358811_d8ed2f4565_k.jpg",
+                "from_url": "https:\/\/www.flickr.com\/photos\/dreamerasid\/",
+                "thumb_width": 2048,
+                "thumb_height": 1152,
+                "id": 1
+            }
+        ],
+        "ts": "1442592297.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "He did as many as he could find.",
+        "ts": "1442592303.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "There should actually be a wiki page about Asid :stuck_out_tongue:",
+        "ts": "1442592348.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Their Madness Project too.",
+        "ts": "1442593706.000051"
+    },
+    {
+        "text": "initiates transfer to commons",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U0AHSU2KF",
+        "ts": "1442593925.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "But it's really nice of him to do this so promptly. Great guy.",
+        "ts": "1442593961.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<https:\/\/commons.wikimedia.org\/w\/index.php?title=Special:ListFiles\/Vivek_Rai&amp;ilshowall=1>",
+        "ts": "1442594190.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": ":smile:",
+        "ts": "1442594245.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "The photography secretary, Abhineet Chute is a friend of mine. How can I help with this?",
+        "ts": "1442597783.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "<@U0AKU18CW>:  Could you ask him what is the procedure for him to release the pictures?",
+        "ts": "1442632395.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "If we figure out that mechanism, we don't have to struggle for a lot of photographs.",
+        "ts": "1442632430.000003"
+    }
+]

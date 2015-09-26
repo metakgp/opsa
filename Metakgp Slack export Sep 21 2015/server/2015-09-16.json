@@ -1,0 +1,36 @@
+[
+    {
+        "user": "U0APA9ZUP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0APA9ZUP|icyflame> has joined the channel",
+        "ts": "1442403051.000002"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/66f9\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "title": "Email from <mailto:vikrant.varma94@gmail.com|vikrant.varma94@gmail.com> - Fwd: Logwatch for metakgp-wiki (Linux)",
+                "text": "---------- Forwarded message ---------\nFrom: ",
+                "fallback": "---------- Forwarded message ---------\nFrom: ",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442410867.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Well, that\u2019s totally useless.",
+        "ts": "1442410904.000004"
+    }
+]

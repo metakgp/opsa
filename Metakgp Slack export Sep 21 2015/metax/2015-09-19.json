@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AHU8RU0>: <@U0AKGKRST> we were about to meet today to hack on rev-prof search right?",
+        "ts": "1442650464.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Yea. I'm fine. Just tell me when.",
+        "ts": "1442650554.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "lets meet at something around 2:30 at your or nuwanda's room",
+        "ts": "1442650630.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "btw <@U0AQ1LRBQ> will also join us in",
+        "ts": "1442650648.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Heyyy guys! Just woke up. Is this happening?",
+        "ts": "1442653030.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Yea <@U0AHU8RU0> even I left the bedjust now :stuck_out_tongue:",
+        "ts": "1442654573.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Did this happen?",
+        "ts": "1442674373.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "We met over dinner in mess. Discussed we should order a GPS for now and that we should have a full team meeting to divide work and set milestones.",
+        "edited": {
+            "user": "U0AKGKRST",
+            "ts": "1442675459.000000"
+        },
+        "ts": "1442675446.000009"
+    }
+]

@@ -1,0 +1,365 @@
+[
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "&gt; d3js real time stats of contribution\n\n-- <@U0AKGKRST> (a long time ago :stuck_out_tongue: )\n\nThis is pretty easy to implement, but the API is currently not setup for whitelisting origins, it seems.\n\n<@U0AKGKRST> <@U0AHQ8HD3> <@U0AHSU2KF> Can you guys do something about this?\n\n```\n<https:\/\/wiki.metakgp.org\/api.php?action=query&amp;list=allusers&amp;auprop=editcount&amp;aulimit=50&amp;auwitheditsonly&amp;audir=descending&amp;format=json>\n```\nThis is the required API endpoint!",
+        "edited": {
+            "user": "U0APA9ZUP",
+            "ts": "1442735615.000000"
+        },
+        "ts": "1442735596.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oh I had thought of this from server end. Client end even I figured there might be issues.",
+        "ts": "1442735858.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Whitelisting seems to be easy. And this resource is not sensitive anyways, so with a sane rate limit, we should not have an issue with exposing this api to everyone.",
+        "edited": {
+            "user": "U0APA9ZUP",
+            "ts": "1442736037.000000"
+        },
+        "ts": "1442735964.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3> can tell better on this. ",
+        "ts": "1442736057.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Are you doing authenticated access with a bot? ",
+        "ts": "1442738480.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "no, I am not",
+        "ts": "1442738497.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "But it can be done, if that's all that's stopping me from making the d3.js graph",
+        "ts": "1442738508.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "If so, I can add your bot to the bots group, which will raise your rate limit. ",
+        "ts": "1442738511.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Rate limit is not an issue. Currently, CORS is an issue.",
+        "ts": "1442738524.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Ah, I see. What's your origin? ",
+        "ts": "1442738580.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "```<http:\/\/localhost:8000>``` for now, it would probably change to `<http:\/\/icyflame.github.io|icyflame.github.io>`, once I host it on GH",
+        "edited": {
+            "user": "U0APA9ZUP",
+            "ts": "1442738630.000000"
+        },
+        "ts": "1442738613.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I would recommend getting these stats server side and caching them. We don't want to hit the database everytime somebody loads your page. ",
+        "ts": "1442738670.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Do you mean cached on the client side? (I can store a json file and update it at an interval of an hour or something, and render that instead of going hitting the DB everytime someone loads the page.)",
+        "ts": "1442738820.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "But what do you mean `cache`? On the server side or the client side?",
+        "ts": "1442738833.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "That won\u2019t be real time :confused:",
+        "ts": "1442738846.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Yeah, that was my concern too.",
+        "ts": "1442738854.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Also, another thing. When someone loads the `Special:ContributorScores` currently, the server does hit the DB right?",
+        "edited": {
+            "user": "U0APA9ZUP",
+            "ts": "1442738900.000000"
+        },
+        "ts": "1442738894.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "And you should note that I can load the JSON in the browser (effectively hitting the DB, as many times as I wish) , but not using a AJAX request from `localhost:8000`. I don't understand why that happens either.",
+        "ts": "1442738972.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "The Special:Contributions page makes a relatively expensive database query to generate those stats. Loading that page once a minute is a non issue. If you load it once a second though, that will probably be heavy on the db (I haven't checked). So if you make a page that uses the api, and that page is loaded several times a minute (say when we release it, or if  we embed it in the main page), then that'll probably be bad. ",
+        "ts": "1442739017.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Oh, so, can we generate a JSON file at the server side every minute or two minutes, and I could hit that JSON file instead of hitting the DB?",
+        "ts": "1442739096.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "For now, I can just enable CORS, and see what happens. If nothing  too bad happens, cool. If not, we'll think about some alternatives. ",
+        "ts": "1442739100.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yeah, that's what I was thinking. ",
+        "ts": "1442739117.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Okay, that sounds good. :+1:",
+        "ts": "1442739217.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0APA9ZUP>: I\u2019ve enabled CORS from any origin. See <https:\/\/www.mediawiki.org\/wiki\/API:Cross-site_requests>, in particular, you need to pass `origin` even as a query parameter.",
+        "ts": "1442743394.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Yeah, i have already seen that doc. Thanks a lot! :simple_smile:",
+        "ts": "1442743424.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<!channel>: Contribution graph works! :smile: \n\n<http:\/\/icyflame.github.io\/metakgp-visualize\/>",
+        "ts": "1442775555.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I don\u2019t like this :confused:",
+        "ts": "1442775590.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "There should be a filter of last week and stuff too else I feel so low :confused:",
+        "ts": "1442775662.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3>: This should be there on the Main Page too :smile:",
+        "ts": "1442775710.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0APA9ZUP>: Wow, that\u2019s really pretty. I bet you can give it some real bells and whistles though - how about custom date ranges, that make the graph animate and change? :simple_smile:",
+        "ts": "1442775790.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Yeah, I was thinking about that too",
+        "ts": "1442775806.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "any ideas as to what can be done? perhaps one page's contributions?",
+        "ts": "1442775823.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "If you can make this stable enough, it could be a really popular mediawiki extension.",
+        "ts": "1442775828.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Also, number of contributions may not be as important as size (and discounting moves and renames)",
+        "ts": "1442775893.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Also, what score are you plotting? \n&lt;Acting like a muggu for marks&gt;",
+        "ts": "1442775898.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "^Exactly",
+        "ts": "1442775907.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "It's the editcount :stuck_out_tongue:",
+        "ts": "1442775916.000042"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "the total number of edits, I believe. I am not sure how the contribution scores are calculated. But plotting them should be a trivial issue, once I know how they are calculated.",
+        "ts": "1442775943.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "MediaWiki uses a \u201cscore\u201d to rank users, which is some function of editcount and edit size.",
+        "ts": "1442775960.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "```The score primarily measures unique pages edited, with consideration for high edit volume.```",
+        "ts": "1442775967.000045"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "The API does not support an endpoint that returns score, so we may have to calculate it ourself.",
+        "ts": "1442776023.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "You can write the function you\u2019re using to calculate score in MathTex on the page. Make it look really fancy :stuck_out_tongue:",
+        "ts": "1442776026.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yeah, that score is not a public thing. Which is fine, you can come up with your own function, and keep tweaking it as you understand more about what\u2019s important.",
+        "ts": "1442776051.000048"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "(or you can look at mw source to see how they\u2019re doing it)",
+        "ts": "1442776084.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<https:\/\/www.mediawiki.org\/wiki\/Extension:Contribution_Scores>",
+        "ts": "1442776095.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "No it is :stuck_out_tongue:",
+        "ts": "1442776103.000051"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "```The score is defined as (number of unique pages edited) + 2 * square root ((number of edits) - (number of unique pages edited)).```",
+        "ts": "1442776105.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "This function for score seems better than plain edit count",
+        "ts": "1442776405.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Very nice work <@U0APA9ZUP> :simple_smile:",
+        "ts": "1442776433.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<!channel>:  We can have an extension of imdb for Kgp, Adding reviews for plays and actors. We have hell lot of plays around the year.",
+        "ts": "1442776526.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "There is someone from a different time zone here? :open_mouth: Bots?",
+        "ts": "1442776553.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "no <@U0AKWDA9H> has set himself to UTC-2 :stuck_out_tongue:",
+        "ts": "1442776634.000057"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "UTC -2  :O",
+        "ts": "1442776712.000058"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "That\u2019s like only Greenland I think",
+        "ts": "1442776727.000059"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0APA9ZUP",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 20th, 2015 12:08 PM] dementor: ```The score is defined as (number of unique pages edited) + 2 * square root ((number of edits) - (number of unique pages edited)).```",
+                "author_subname": "dementor",
+                "ts": 1442776105,
+                "text": "```The score is defined as (number of unique pages edited) + 2 * square root ((number of edits) - (number of unique pages edited)).```",
+                "author_name": "Soumyadeep Mukherjee",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/dementor",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2015-09-14\/10664460352_872a879cfb896be3d26e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0APA9ZUP|icyflame> pinned a message to this channel.",
+        "ts": "1442777329.000060"
+    }
+]

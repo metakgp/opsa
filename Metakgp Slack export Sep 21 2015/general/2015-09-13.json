@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U0AJEBGBU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442128726.037604"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "The current and the future batch will never know about the R U OK? day organized in IIT Kharagpur, the mass blackout for 1 hour and the fun people had. The information we are losing is unprecedented. If you quickly can compile an article on this, it could serve as an interesting and popular DYK article for people.",
+        "ts": "1442134954.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<https:\/\/wiki.metakgp.org\/w\/Reach_Out_Week>",
+        "ts": "1442138071.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "With whatever I could scavenge.",
+        "ts": "1442138080.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHU8RU0>: Would Schol Ave have any pictures of Reach Out Week?",
+        "ts": "1442138127.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Infact, we should try to have all SWG pictures (and institute photos) released with suitable license.",
+        "ts": "1442138250.000006"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U0AKV0F0W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKV0F0W|mitpal> has joined the channel",
+        "ts": "1442579156.000003"
+    }
+]

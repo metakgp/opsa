@@ -1,0 +1,495 @@
+[
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442746849.000002"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/metakgp.slack.com\/services\/B0B0WQ9BL|incoming-webhook>",
+        "bot_id": "B0B0WQ9BL",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U0AHQ8HD3",
+        "ts": "1442746875.000003"
+    },
+    {
+        "text": "This is posted to <#general> and comes from *monkey-bot*.",
+        "username": "monkey-bot",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "emoji": ":monkey_face:",
+            "image_64": "https:\/\/slack-assets2.s3-us-west-2.amazonaws.com\/ad0d\/img\/emoji_2015\/apple\/1f435.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442758708.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "If anyone is watching this, please ignore. I\u2019m testing a webhook integration.",
+        "ts": "1442758746.000005"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>* modified by *amrav*: Test edit.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442760059.000006"
+    },
+    {
+        "text": "This is posted to <#recent-changes> and comes from *batman*.",
+        "username": "monkey-bot",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11027503539_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442760338.000007"
+    },
+    {
+        "text": "This is posted to <#recent-changes> and comes from *batman*.",
+        "username": "monkey-bot",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442760820.000008"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>* modified by *amrav*: Test edit.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442761152.000009"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>* modified by *amrav*: Test change.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442761884.000010"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>* modified by *amrav*: Test edit.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442762059.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "asdf",
+        "ts": "1442762104.000012"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>* modified by *amrav*: Test edit.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442762120.000013"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "purpose": "Subscribe for automatic push notifications about important events on the wiki.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHQ8HD3|amrav> set the channel purpose: Subscribe for automatic push notifications about important events on the wiki.",
+        "ts": "1442762435.000014"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Yellow_pages|Yellow pages>* modified by *xtinct*: \/* Canteens *\/ .",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442763955.000015"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/The_Madness_Project|The Madness Project>* modified by *orkohunter*.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442765607.000016"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Twistin|User:Twistin>* created by *twistin*: Created page with &amp;quot;&gt;&gt; Whatever we do may be small, but it has a touch of permanence.  &gt;&gt; There is an edit. And it's changed. It's only a matter of time before it's unrecognizable.  Hi,   reach m...&amp;quot;.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442767225.000017"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Twistin|User:Twistin>* modified by *twistin*.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442767377.000018"
+    },
+    {
+        "user": "U0APA9ZUP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0APA9ZUP|icyflame> has joined the channel",
+        "ts": "1442767639.000019"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Institute_proxies|Institute proxies>* modified by *<@U0APA9ZUP|icyflame>*: \/* heroku *\/ Add some more information about the Heroku detached run command.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442767669.000020"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Twistin|User:Twistin>* modified by *<@U0AQ1LRBQ|twistin>*.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442768258.000021"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Twistin|User:Twistin>* modified by *<@U0AQ1LRBQ|twistin>*.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442768706.000022"
+    },
+    {
+        "text": "Reach me at vikrant [dot] varma94 [at] gmail [dot] com.\n\n- [<http:\/\/www.amrav.net> Blog]\n\n- [<https:\/\/github.com\/amrav> Github]\n\n- [[User:Amrav\/Why metakgp?|Why metakgp?]]\n\n== Subpages ==\n\n{{Special:PrefixIndex\/User:Amrav\/|stripprefix=1}}",
+        "username": "incoming-webhook",
+        "bot_id": "B0B0WQ9BL",
+        "attachments": [
+            {
+                "pretext": "Test edit",
+                "fallback": "User:Amrav modified by amrav: Test edit.",
+                "text": {
+                    "mText": "Reach me at vikrant [dot] varma94 [at] gmail [dot] com.\n\n- [http:\/\/www.amrav.net Blog]\n\n- [https:\/\/github.com\/amrav Github]\n\n- [[User:Amrav\/Why metakgp?|Why metakgp?]]\n\n== Subpages ==\n\n{{Special:PrefixIndex\/User:Amrav\/|stripprefix=1}}"
+                },
+                "color": "36a64f",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442772576.000023"
+    },
+    {
+        "text": "",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "attachments": [
+            {
+                "author_name": "amrav",
+                "fallback": "User:Amrav modified by amrav: Test edit.",
+                "pretext": "Test edit",
+                "id": 1,
+                "title_link": "https:\/\/wiki.metakgp.org\/w\/User:Amrav",
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442772941.000024"
+    },
+    {
+        "text": "",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "attachments": [
+            {
+                "author_name": "amrav",
+                "fallback": "User:Amrav modified by amrav: Test edit.",
+                "pretext": "Test edit",
+                "title": "User:Amrav",
+                "id": 1,
+                "title_link": "https:\/\/wiki.metakgp.org\/w\/User:Amrav",
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442773308.000025"
+    },
+    {
+        "text": "",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "attachments": [
+            {
+                "author_name": "amrav",
+                "fallback": "User:Amrav modified by amrav: Test edit.",
+                "text": "Reach me at vikrant [dot] varma94 [at] gmail [dot] com.\n\n- [<http:\/\/www.amrav.net> Blog]\n\n- [<https:\/\/github.com\/amrav> Github]\n\n- [[User:Amrav\/Why metakgp?|Why metakgp?]]\n\n== Subpages ==\n\n{{Special:PrefixIndex\/User:Amrav\/|stripprefix=1}}",
+                "pretext": "Test edit",
+                "title": "User:Amrav",
+                "id": 1,
+                "title_link": "https:\/\/wiki.metakgp.org\/w\/User:Amrav",
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442773580.000026"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/LBS|LBS>*  by *<@U0AHQ8HD3|amrav>*: Create redirect.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442777324.000027"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Yellow_pages|Yellow pages>*  by *@203.110.246.22*: \/* Restaurants *\/ Change the date to verified ref tag.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442777482.000028"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Rajendra_Prasad_Hall_of_Residence|Rajendra Prasad Hall of Residence>*  by *<@U0AHQ8HD3|amrav>*: Add citation_needed tags.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442777555.000029"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Help:New_editor%27s_guide|Help:New editor's guide>*  by *<@U0APA9ZUP|icyflame>*: Add the conventions page link to the NEG.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442778144.000030"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/AGV|AGV>*  by *<@U0AHQ8HD3|amrav>*: Transfer content from Robotics page.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442778706.000031"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/KRSSG|KRSSG>*  by *<@U0AHQ8HD3|amrav>*: Correct typo.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442779044.000032"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Career_Development_Centre|Career Development Centre>*  by *<@U0APA9ZUP|icyflame>*: \/* 2015-16 *\/ Add the PlaceComm for 2015-16.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442779161.000033"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/VPTSG|VPTSG>* created by *<@U0APA9ZUP|icyflame>*: Create a Redirect page for the VPTSG.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442779230.000034"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/2.2|2.2>* created by *<@U0AKGKRST|dementor>*: Redirected page to [[Scholars' Avenue]].",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442779832.000035"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Vice_President,_Technology_Students%27_Gymkhana|Vice President, Technology Students' Gymkhana>* created by *<@U0APA9ZUP|icyflame>*: Add the vice president TSG page (with basic details and past VPs list).",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442780043.000036"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Career_Development_Centre|Career Development Centre>*  by *<@U0APA9ZUP|icyflame>*: Add a reference to the sections consisting present place-comms and staff members.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442780391.000037"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/HiT_Hi_FiT_Hai|HiT Hi FiT Hai>*  by *<@U0APA9ZUP|icyflame>*: \/* Terminology *\/ Fix rendering of the numbered list.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442780664.000038"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Career_Development_Centre|Career Development Centre>*  by *<@U0APA9ZUP|icyflame>*: Add the under construction tag to the CDC page.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442780768.000039"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Robotics|Robotics>*  by *<@U0AHQ8HD3|amrav>*: General clean up, and add unverified and citation_needed tags..",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442780775.000040"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Vice_President,_Technology_Students%27_Gymkhana|Vice President, Technology Students' Gymkhana>*  by *<@U0APA9ZUP|icyflame>*: Add the under construction tag to the VPTSG page.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442780809.000041"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Fresher%27s_guide|Fresher's guide>*  by *<@U0APA9ZUP|icyflame>*: Add department change sub-section to the academics section.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442781315.000042"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/Robotics|Robotics>*  by *<@U0AKGKRST|dementor>*: Verified Stuff.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442781508.000043"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>*  by *<@U0AHQ8HD3|amrav>*: Test edit.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442781651.000044"
+    },
+    {
+        "text": "*<https:\/\/wiki.metakgp.org\/w\/User:Amrav|User:Amrav>*  by *<@U0AHQ8HD3|amrav>*: Test edit 0212.",
+        "username": "batman",
+        "bot_id": "B0B0WQ9BL",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2015-09-20\/11029956422_48.png"
+        },
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442781748.000045"
+    }
+]

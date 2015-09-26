@@ -1,0 +1,25 @@
+[
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442051440.000002"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "purpose": "Channel for server admins",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHQ8HD3|amrav> set the channel purpose: Channel for server admins",
+        "ts": "1442051440.000003"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/metakgp.slack.com\/services\/B0AHQDVHT|New Relic>",
+        "bot_id": "B0AHQDVHT",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U0AHQ8HD3",
+        "ts": "1442051443.000004"
+    }
+]

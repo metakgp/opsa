@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<https:\/\/www.dropbox.com\/campuscup?referrer=NTIzMDQwMDg>",
+        "attachments": [
+            {
+                "service_name": "Campus Cup",
+                "title": "Dropbox - Campus Cup",
+                "title_link": "https:\/\/www.dropbox.com\/campuscup?referrer=NTIzMDQwMDg",
+                "text": "I'm participating in the 2015 Campus Cup! Join me for a chance to earn free space",
+                "fallback": "Campus Cup: Dropbox - Campus Cup",
+                "thumb_url": "https:\/\/cf.dropboxstatic.com\/static\/images\/student-promo\/students-with-cup-vflJEQ73J.png",
+                "from_url": "https:\/\/www.dropbox.com\/campuscup?referrer=NTIzMDQwMDg",
+                "thumb_width": 700,
+                "thumb_height": 468,
+                "id": 1
+            }
+        ],
+        "ts": "1442737594.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "They did this last time to, helping me bump my space to 27 GB.",
+        "ts": "1442743540.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "But now, after an year (or 2 years maybe) it has expired causing my account to overflow! :stuck_out_tongue:",
+        "ts": "1442743557.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "What's the cheapest b&amp;w\/color print rate I can get in KGP and where?",
+        "ts": "1442759879.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "4 rs is the cheapest I have seen.",
+        "ts": "1442759943.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "for print",
+        "edited": {
+            "user": "U0AKGKRST",
+            "ts": "1442759961.000000"
+        },
+        "ts": "1442759952.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Cheapest would be buying your own printer or using Dept printer :stuck_out_tongue:",
+        "ts": "1442759973.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AKWDA9H> Studying maths makes you feel like being in Greenland?",
+        "ts": "1442776780.000011"
+    }
+]

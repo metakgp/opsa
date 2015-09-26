@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0AHSU2KF",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 14th, 2015 6:35 AM] amrav: TODO post midsems - get others familiar with running the server.",
+                "author_subname": "amrav",
+                "ts": 1442237717,
+                "text": "TODO post midsems - get others familiar with running the server.",
+                "author_name": "Vikrant Varma",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/amrav",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/2639272b28fda236c5c163d38a96bee6.jpg?s=48&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F66f9%2Fimg%2Favatars%2Fava_0005-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0AHSU2KF|xtinct> pinned a message to this channel.",
+        "ts": "1442377045.000002"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKU18CW|himanshu> has joined the channel",
+        "ts": "1442558008.000002"
+    },
+    {
+        "user": "U0AKU18CW",
+        "purpose": "Discuss articles for the section",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AKU18CW|himanshu> set the channel purpose: Discuss articles for the section",
+        "ts": "1442558009.000003"
+    },
+    {
+        "user": "U0AKR593L",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKR593L|abhishek> has joined the channel",
+        "ts": "1442558099.000004"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442558099.000005"
+    },
+    {
+        "user": "U0AKGKRST",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442558100.000006"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442558100.000007"
+    },
+    {
+        "user": "U0AJEBGBU",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442558100.000008"
+    },
+    {
+        "user": "U0APA9ZUP",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0APA9ZUP|icyflame> has joined the channel",
+        "ts": "1442558100.000009"
+    },
+    {
+        "user": "U0AKV0F0W",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKV0F0W|mitpal> has joined the channel",
+        "ts": "1442558101.000010"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442558101.000011"
+    },
+    {
+        "user": "U0AQ1LRBQ",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AQ1LRBQ|twistin> has joined the channel",
+        "ts": "1442558101.000012"
+    },
+    {
+        "user": "U0AKJ9GET",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKJ9GET|whiplash> has joined the channel",
+        "ts": "1442558101.000013"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "inviter": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442558101.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "This event is really sad.\n<https:\/\/www.facebook.com\/notes\/iit-kharagpur\/iit-kharagpur-student-dies-due-to-lack-of-adequate-medical-facility-outraged-stu\/76000961022>\n\nScholars' Avenue was banned for putting up an article about it\n<https:\/\/www.quora.com\/What-was-it-like-for-The-Scholars-Avenue-to-get-banned-for-several-months-in-the-early-stages-of-its-inception>",
+        "edited": {
+            "user": "U0AKU18CW",
+            "ts": "1442558396.000000"
+        },
+        "ts": "1442558258.000015"
+    }
+]

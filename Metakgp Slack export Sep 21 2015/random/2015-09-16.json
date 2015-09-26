@@ -1,0 +1,88 @@
+[
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Vim's tabularize plugin can help ease some pain with glorious wiki table markup.",
+        "ts": "1442406064.000002"
+    },
+    {
+        "text": "will check it out",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U0AJEBGBU",
+        "ts": "1442406363.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "MediaWiki 1.25 + VisualEditor latest master has support for editing tables.",
+        "ts": "1442409742.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Migrating to 1.25 will be a giant pain in the ass. It\u2019s probably necessary though.",
+        "ts": "1442409767.000005"
+    },
+    {
+        "user": "U0AQ1LRBQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AQ1LRBQ|twistin> has joined the channel",
+        "ts": "1442415999.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Has anyone used slack on phone using vpn or any other way?",
+        "ts": "1442417293.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKV0F0W",
+        "text": "Yes. I'm using phone at the moment. ",
+        "ts": "1442417426.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKV0F0W",
+        "text": "Using VPN. ",
+        "ts": "1442417432.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "It works right?",
+        "ts": "1442417452.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Cool. I am considering shifting from google groups to this at some places.",
+        "ts": "1442417465.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Any issiues you faced?",
+        "ts": "1442417469.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AKV0F0W",
+        "text": "Yes it world. No issues as of now. Only problem is you have to get connected to VPN. ",
+        "ts": "1442417615.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AKV0F0W",
+        "text": "*works",
+        "ts": "1442417626.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "That's true for whatsapp notifications too for that matter so people use it anyways.",
+        "ts": "1442417642.000015"
+    }
+]

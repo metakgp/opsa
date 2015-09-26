@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AKU18CW>: Do you know who was the diro and the deputy diro then? \n\n<http:\/\/www.thehindu.com\/todays-paper\/tp-national\/article338886.ece>",
+        "attachments": [
+            {
+                "service_name": "The Hindu",
+                "title": "Classes at IIT-Kharagpur suspended, director quits",
+                "title_link": "http:\/\/www.thehindu.com\/todays-paper\/tp-national\/article338886.ece",
+                "text": "Special CorrespondentKOLKATA: Classes at the Indian Institute of Technology-Kharagpur were suspended on Monday, a day after its director Damodar Acharya resigned following violent protests outside his house by students",
+                "fallback": "The Hindu: Classes at IIT-Kharagpur suspended, director quits",
+                "thumb_url": "http:\/\/www.thehindu.com\/template\/1-0-1\/gfx\/oghindunew1.jpg",
+                "ts": 1237833000,
+                "from_url": "http:\/\/www.thehindu.com\/todays-paper\/tp-national\/article338886.ece",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "id": 1
+            }
+        ],
+        "ts": "1442561760.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "this article suggests that a `Mr. Chakraborty` was the deputy diro. Was PPC the deputy diro then?",
+        "ts": "1442561783.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Page 12 : <http:\/\/www.iitkgp.ac.in\/downloads\/iitkgp_09_10.pdf>\nThe Deputy Director was Prof. Mrityunjoy Chakraborty",
+        "ts": "1442562642.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "We should put up an article on the wiki about this incident. There\u2019s lots of news sources to cite.",
+        "ts": "1442562721.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "yes",
+        "ts": "1442562739.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Alternatively, put it on the BC Roy page.",
+        "ts": "1442562750.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "In the history section",
+        "ts": "1442562783.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "In the Incompetency section.",
+        "ts": "1442562797.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Yeah that seems better",
+        "ts": "1442562860.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Sorry, the deputy director was Madhusudan Chakraborty\n<https:\/\/web.archive.org\/web\/20090707022918\/http:\/\/iitkgp.ac.in\/fac-profiles\/showprofile.php?empcode=YVmdQ&amp;depts_name=DD>",
+        "ts": "1442563694.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I'm a little confused",
+        "ts": "1442564924.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I don't think the banning of TSA and the incident is related",
+        "ts": "1442564942.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "That TSA article is of 2005 and the Hindu is of 2009",
+        "ts": "1442564965.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "So, we have two articles now in that section",
+        "ts": "1442564990.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I have put up the article. Please see and edit for a better language or more informtion.\n<https:\/\/wiki.metakgp.org\/w\/BC_Roy_Technology_Hospital>",
+        "ts": "1442567738.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I don\u2019t think it should be called incompetence",
+        "ts": "1442571986.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "It should be called Past Incidents",
+        "ts": "1442571993.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "or Criticism",
+        "ts": "1442572007.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I was kidding about Incompetence :-P ",
+        "ts": "1442572397.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "You can put it under a Controversies section, like Wikipedia. ",
+        "ts": "1442572433.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Yeah.",
+        "ts": "1442585129.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Controversies should do.",
+        "ts": "1442585133.000040"
+    }
+]

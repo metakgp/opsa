@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "We're planning to release \"constitution fun facts\" next :P",
+        "ts": "1442301631.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0AHSU2KF",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 15th, 2015 12:20 AM] amrav: We're planning to release \"constitution fun facts\" next :P",
+                "author_subname": "amrav",
+                "ts": 1442301631,
+                "text": "We're planning to release \"constitution fun facts\" next :P",
+                "author_name": "Vikrant Varma",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/amrav",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/2639272b28fda236c5c163d38a96bee6.jpg?s=48&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F66f9%2Fimg%2Favatars%2Fava_0005-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0AHSU2KF|xtinct> pinned a message to this channel.",
+        "ts": "1442302297.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "Aaand 600 it is! \\m\/",
+        "ts": "1442313342.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "\\m\/etakgp",
+        "ts": "1442313363.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "( always wanted to write that )",
+        "ts": "1442313382.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "Yo!",
+        "ts": "1442317984.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "\\m\/",
+        "ts": "1442317988.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": ":smile: \\m\/",
+        "ts": "1442341221.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I've asked Nishith to add a notice about metaKGP on DC, that should help us get more visibility.",
+        "ts": "1442366971.000002"
+    }
+]

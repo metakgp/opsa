@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "TODO post midsems - get others familiar with running the server.",
+        "ts": "1442237717.000002"
+    },
+    {
+        "user": "U0AJEBGBU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442247827.000003"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442286145.000002"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442299571.000002"
+    }
+]

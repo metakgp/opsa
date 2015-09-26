@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442237160.000002"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "purpose": "This is basically to handle all facebook page \/ PR related stuff. Motto : \"Go get em first years and PGs\" . Also, Marketing is a sad channel name, no?",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHU8RU0|nuwanda> set the channel purpose: This is basically to handle all facebook page \/ PR related stuff. Motto : \"Go get em first years and PGs\" . Also, Marketing is a sad channel name, no?",
+        "ts": "1442237160.000003"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "inviter": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442237334.000004"
+    },
+    {
+        "user": "U0AKGKRST",
+        "inviter": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442237334.000005"
+    },
+    {
+        "user": "U0AKJ9GET",
+        "inviter": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKJ9GET|whiplash> has joined the channel",
+        "ts": "1442237335.000006"
+    },
+    {
+        "user": "U0AJEBGBU",
+        "inviter": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442237335.000007"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "inviter": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442237335.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "<@U0AHQ8HD3>: Next featured post is the gymkhana constitution facts?",
+        "ts": "1442237373.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yeah, I\u2019ll unearth some creepy crawlies and post tomorrow.",
+        "ts": "1442237572.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": "That's you alright.  :relaxed:",
+        "ts": "1442237606.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AHU8RU0",
+        "text": ":stuck_out_tongue:",
+        "ts": "1442237615.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Just 2 likes away from 600!",
+        "ts": "1442299391.000002"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442299689.000003"
+    }
+]

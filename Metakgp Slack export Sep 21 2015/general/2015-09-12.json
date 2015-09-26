@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442050480.818231"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442063278.000002"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442064095.000003"
+    }
+]

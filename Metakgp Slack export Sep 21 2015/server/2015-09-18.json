@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U0AKGKRST",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442604992.000002"
+    }
+]

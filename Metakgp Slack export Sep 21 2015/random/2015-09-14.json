@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U0AKGKRST",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442233260.000002"
+    },
+    {
+        "user": "U0AKJ9GET",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKJ9GET|whiplash> has joined the channel",
+        "ts": "1442235287.000003"
+    },
+    {
+        "user": "U0AKR593L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKR593L|abhishek> has joined the channel",
+        "ts": "1442237726.000004"
+    },
+    {
+        "user": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKU18CW|himanshu> has joined the channel",
+        "ts": "1442244100.000005"
+    },
+    {
+        "user": "U0AKV0F0W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKV0F0W|mitpal> has joined the channel",
+        "ts": "1442244871.000006"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442247796.000007"
+    }
+]

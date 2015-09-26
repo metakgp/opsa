@@ -1,0 +1,206 @@
+[
+    {
+        "user": "U0AJEBGBU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442304264.000002"
+    },
+    {
+        "user": "U0AJEBGBU",
+        "purpose": "Channel to coordinate collection of photographs for metaKGP",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AJEBGBU|hargup> set the channel purpose: Channel to coordinate collection of photographs for metaKGP",
+        "ts": "1442304264.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "Update your photograph collection status here: <https:\/\/wiki.metakgp.org\/w\/Metakgp:Collecting_Phtographs>",
+        "edited": {
+            "user": "U0AJEBGBU",
+            "ts": "1442304302.000000"
+        },
+        "ts": "1442304274.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0AJEBGBU",
+        "item_type": "C",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[September 15th, 2015 1:04 AM] hargup: Update your photograph collection status here: <https:\/\/wiki.metakgp.org\/w\/Metakgp:Collecting_Phtographs>",
+                "author_subname": "hargup",
+                "ts": 1442304274,
+                "text": "Update your photograph collection status here: <https:\/\/wiki.metakgp.org\/w\/Metakgp:Collecting_Phtographs>",
+                "author_link": "https:\/\/metakgp.slack.com\/team\/hargup",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a59bb70d2e6bee52c15a54aaafc808b8.jpg?s=48&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F66f9%2Fimg%2Favatars%2Fava_0009-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0AJEBGBU|hargup> pinned a message to this channel.",
+        "ts": "1442304306.000006"
+    },
+    {
+        "user": "U0AKGKRST",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKGKRST|dementor> has joined the channel",
+        "ts": "1442315504.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Hey, What are we asking for from people for photographs?",
+        "ts": "1442315519.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I know Asid maybe I can ask him.",
+        "ts": "1442315527.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Also, Mrinal might have photos too.",
+        "ts": "1442315534.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But what exactly are we looking for?",
+        "ts": "1442315540.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<https:\/\/www.facebook.com\/Asidity\/photos_stream>",
+        "ts": "1442315659.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Check this",
+        "ts": "1442315662.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "He has a brilliant collection :open_mouth:",
+        "ts": "1442315669.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "WTMS, Choreo, Random Kgp",
+        "ts": "1442315715.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "We want to have galleries of Illu, Rangoli, SF and KTJ of different years",
+        "edited": {
+            "user": "U0AJEBGBU",
+            "ts": "1442317700.000000"
+        },
+        "ts": "1442317585.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "and also the photographs of different buildings and places",
+        "edited": {
+            "user": "U0AJEBGBU",
+            "ts": "1442317752.000000"
+        },
+        "ts": "1442317624.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "including photos like this one <https:\/\/www.facebook.com\/Asidity\/photos\/pb.479112958824831.-2207520000.1442317499.\/740204012715723\/?type=3&amp;theater>",
+        "attachments": [
+            {
+                "text": "An autumn afternoon in Kgp. #kgp #people",
+                "fallback": "An autumn afternoon in Kgp. #kgp #people",
+                "from_url": "https:\/\/www.facebook.com\/Asidity\/photos\/pb.479112958824831.-2207520000.1442317499.\/740204012715723\/?type=3&theater",
+                "id": 1
+            }
+        ],
+        "ts": "1442317763.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Asid wants to know which pictures and he will upload them.",
+        "ts": "1442320186.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Is there someone who wont mind goign through the huge albums on Fb and give the list",
+        "ts": "1442320206.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "*going",
+        "ts": "1442320220.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Ok so I did this myself and asked him to upload the following albums :",
+        "ts": "1442320530.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "1. Illumination 2013\n2. KGP\n3. SF 2014\n4. CHoreo\n5. Best of WTMS\n6. SF 2015",
+        "ts": "1442320543.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "SO he says its pointless to upload albums",
+        "ts": "1442321218.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "since we won't be using all",
+        "ts": "1442321222.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "So, he says to decide exact pics",
+        "ts": "1442321253.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "and he will do them",
+        "ts": "1442321257.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AHSU2KF>: can you update the status for Nikesh",
+        "ts": "1442332169.000011"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "inviter": "U0AJEBGBU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442332177.000012"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U0AQ1LRBQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AQ1LRBQ|twistin> has joined the channel",
+        "ts": "1442416489.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "New idea proposal: KGP Open Data project. We use embedded devices to relay information to a central server, and this raw data is openly available for anyone to use, for making apps.",
+        "ts": "1442426519.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Which data?",
+        "ts": "1442426648.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "For example, putting embedded devices on buses, that relay current location (wifi module? gps?) and occupancy (ir?). The obvious app application would be a real time map that shows you the buses in real time, along with expected time of arrival, route, etc.",
+        "ts": "1442426686.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Another example would be putting embedded devices in restaurants and canteens, that use motion detection to automatically say whether a canteen is open or not, and possibly how crowded it is.",
+        "ts": "1442426748.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "We also let anyone add new modules to these embedded devices, if they want to add new functionality (provided they don\u2019t break the existing stuff)",
+        "ts": "1442426825.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKR593L>: You have embedded systems experience, right?",
+        "ts": "1442426877.000007"
+    },
+    {
+        "user": "U0AKR593L",
+        "inviter": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKR593L|abhishek> has joined the channel",
+        "ts": "1442426883.000008"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "purpose": "Experimental ideas, useful hacks, and quirky projects, that push the boundaries of how we live and interact in KGP.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHQ8HD3|amrav> set the channel purpose: Experimental ideas, useful hacks, and quirky projects, that push the boundaries of how we live and interact in KGP.",
+        "ts": "1442427288.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Oooo cool. This will be interesting.",
+        "ts": "1442433352.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Crowd detection we can do I think",
+        "ts": "1442433387.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Pretty easily",
+        "ts": "1442433392.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "In Carlos",
+        "ts": "1442433399.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Using a pir sensor kept at a strategic place",
+        "ts": "1442433428.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AKWDA9H",
+        "text": "Another form of data could be random tagged images with some Coordinate data embedded in it.",
+        "ts": "1442438213.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AKWDA9H",
+        "text": "It might be easy for people to upload images, taken at random occasions and locations",
+        "ts": "1442438263.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AKWDA9H",
+        "text": "The aim be to try and create a GigaPixel image of KGP",
+        "ts": "1442438280.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AKWDA9H",
+        "text": "(From a particular viewpoint i.e ), we have drones for aerial view as well :stuck_out_tongue:",
+        "ts": "1442438319.000018"
+    }
+]

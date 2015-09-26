@@ -1,0 +1,111 @@
+[
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: <@U0AKGKRST> What is the license for images uploaded to Facebook by Awaaz IIT KGP ?",
+        "ts": "1442781354.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Can I upload them under CC license and reference them in a page?",
+        "ts": "1442781372.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Specifically, <https:\/\/scontent.fdel1-2.fna.fbcdn.net\/hphotos-xpa1\/v\/t1.0-9\/10570487_799251116761912_4955392668226989644_n.jpg?oh=ce3048bcdabe896483d697663a42d576&amp;oe=569F1A0B>",
+        "attachments": [
+            {
+                "fallback": "880x505px image",
+                "image_url": "https:\/\/scontent.fdel1-2.fna.fbcdn.net\/hphotos-xpa1\/v\/t1.0-9\/10570487_799251116761912_4955392668226989644_n.jpg?oh=ce3048bcdabe896483d697663a42d576&oe=569F1A0B",
+                "image_width": 880,
+                "image_height": 505,
+                "image_bytes": 31263,
+                "from_url": "https:\/\/scontent.fdel1-2.fna.fbcdn.net\/hphotos-xpa1\/v\/t1.0-9\/10570487_799251116761912_4955392668226989644_n.jpg?oh=ce3048bcdabe896483d697663a42d576&oe=569F1A0B",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U0APA9ZUP",
+            "ts": "1442781398.000000"
+        },
+        "ts": "1442781381.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I don\u2019t think anyone has asked Awaaz whether their stuff is CC.",
+        "ts": "1442781422.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "You can go ahead and ask them.",
+        "ts": "1442781433.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "In any case, you can certainly cite that image as a source, even without asking.",
+        "edited": {
+            "user": "U0AHQ8HD3",
+            "ts": "1442781461.000000"
+        },
+        "ts": "1442781449.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0APA9ZUP>: In such cases, you can just look at their data and create a graph of your own. Which should be a task of 5 mins.",
+        "ts": "1442816920.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "That becomes your work then! :smile:",
+        "ts": "1442816924.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Hah, yeah. That would be easy to do too. :smile:",
+        "ts": "1442816955.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Graphs are not internal to Wiki itself, right?",
+        "ts": "1442816983.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I guess.",
+        "ts": "1442816994.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Hmm, okay. I can probably extend the Contributors graph easily to graph data that is fed by the user :simple_smile:",
+        "ts": "1442817026.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0APA9ZUP>: Also, for pages where we have to put a year wise history of say governors or office bearers, I think it'd be pretty okay to just put the current one on main article and rest on a page title 'List of office bearers for CDC', for example.",
+        "ts": "1442817202.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "And then just link to that list within the section.",
+        "ts": "1442817223.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Yeah, sure, I will change the list accordingly. Otherwise, the CDC page becomes unnecessarily long, you are right.",
+        "ts": "1442817622.000010"
+    }
+]

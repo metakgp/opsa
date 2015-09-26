@@ -1,0 +1,199 @@
+[
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "wikimedia commons deleted the society logo and hall pic I uploaded. <https:\/\/commons.wikimedia.org\/wiki\/User_talk:Orkohunter>",
+        "ts": "1442344109.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": ":disappointed:",
+        "ts": "1442344112.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "How can we get society logos under CC?",
+        "ts": "1442344172.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "We don't.",
+        "ts": "1442346629.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Refer to discussion on hangouts four days back, some users have been given the right to upload images on metakgp server itself which are copyright",
+        "ts": "1442346687.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "mainly for logos.",
+        "ts": "1442346691.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3> can explain how.",
+        "ts": "1442346705.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKU18CW>: Which society is this? Our first preference is to get the logo under CC if possible.",
+        "ts": "1442350324.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "<@U0AHQ8HD3>: TLS, Technology Literary Society <https:\/\/wiki.metakgp.org\/w\/Technology_Literary_Society>\nI had uploaded the image and now it shows blank in the infobox because it has been deleted from the wikimedia commons",
+        "ts": "1442351351.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "What license did you upload it under?",
+        "ts": "1442351383.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "umm.. I don't remember that.",
+        "ts": "1442351404.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I must have clicked 'I don't own this' and 'I found this on internet'. Sorry I don't remember much about that.",
+        "ts": "1442351446.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yeah, that option is a \u201ctrap\u201d option, designed to make you confess that the image shouldn\u2019t be on Creative Commons.",
+        "ts": "1442353415.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "^lol",
+        "ts": "1442353429.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "We should ask TLS to release their license under Creative Commons. If they don\u2019t want to, we can upload it under a restricted license.",
+        "ts": "1442353493.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "(on the wiki directly, instead of through CC)",
+        "ts": "1442353508.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "We should just assume that logos must go under restricted license I think.",
+        "ts": "1442353562.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: I think we should try to convince people to release their stuff under CC first, since it\u2019s good for everybody. We always have the fallback of uploading under a restricted license, but putting that up as the first option means that fewer people will think about releasing under CC.",
+        "ts": "1442353708.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Also, the more files that are on CC, the fewer we have to host (and backup, and restore in case of loss, etc)",
+        "ts": "1442353761.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Makes sense though but I think asking will make our work slow and will be redundant. From my perspective if I do not want TRS\/CFER logo on CC, I do not think others would want logos to be on CC.",
+        "ts": "1442353861.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "DebSoc was fine with a CC logo, so was Bitwise. I think it\u2019s worth the additional delay, given that we advance the cause of freely available images. Many people probably won\u2019t even be aware of CC unless we talk to them about it.",
+        "ts": "1442353996.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Bitwise was :open_mouth:",
+        "ts": "1442354020.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I can so screw them now :stuck_out_tongue:",
+        "ts": "1442354031.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "But cool if we are ready to put in the additional delay.",
+        "ts": "1442354046.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I agree with <@U0AHQ8HD3>, one of our side aim is to increase awareness about open culture and licenses issues constitute a very important part of it.",
+        "ts": "1442367302.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "I've written to Anurag Priyam and HJP to share the history of HiT Hi FiT Hai for metaKGP. Both of them have been admins for DC",
+        "ts": "1442367496.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AHQ8HD3>: Societies wouldn't have an issue with releasing their images under CC license but that's usually not the case when considering any other organization (famous specially). In such cases, a logo (or say signature of a famous person) can be released under _Fair Usage Policy_.",
+        "ts": "1442376873.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "But I think that allows the image _only_ to be used on Wikipedia (or the wiki it is uploaded to) and not on commons.",
+        "ts": "1442376898.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AKU18CW>: When you upload logos on metaKGP wiki now, just tag them with Fair Usage license.",
+        "ts": "1442376925.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "It turns out even Priyam doesn't know the history, he has CCed the mail to Naveen, I guess he is the guy from whom Priyam inherited the admin rights.",
+        "edited": {
+            "user": "U0AJEBGBU",
+            "ts": "1442384164.000000"
+        },
+        "ts": "1442383896.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AHQ8HD3>: : I've invited icyflame to this slack channel",
+        "ts": "1442384037.000006"
+    },
+    {
+        "user": "U0APA9ZUP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0APA9ZUP|icyflame> has joined the channel",
+        "ts": "1442385215.000008"
+    }
+]

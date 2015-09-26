@@ -1,0 +1,11 @@
+[
+    {
+        "user": "U0AHQ8HD3",
+        "old_name": "admin",
+        "name": "sysop",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U0AHQ8HD3|amrav> has renamed the channel from \"admin\" to \"sysop\"",
+        "ts": "1442758130.000002"
+    }
+]

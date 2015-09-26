@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U0APA9ZUP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0APA9ZUP|icyflame> has joined the channel",
+        "ts": "1442385215.000002"
+    }
+]

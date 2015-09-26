@@ -1,0 +1,346 @@
+[
+    {
+        "id": "C0ATJ7G9H",
+        "name": "did-you-know",
+        "created": "1442558008",
+        "creator": "U0AKU18CW",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKJ9GET",
+            "U0AKR593L",
+            "U0AKU18CW",
+            "U0AKV0F0W",
+            "U0AKWDA9H",
+            "U0APA9ZUP",
+            "U0AQ1LRBQ"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Discuss articles for the section",
+            "creator": "U0AKU18CW",
+            "last_set": "1442558009"
+        }
+    },
+    {
+        "id": "C0AHUF5R7",
+        "name": "general",
+        "created": "1442050480",
+        "creator": "U0AHQ8HD3",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKJ9GET",
+            "U0AKR593L",
+            "U0AKU18CW",
+            "U0AKV0F0W",
+            "U0AKWDA9H",
+            "U0APA9ZUP",
+            "U0AQ1LRBQ",
+            "U0B0YFA23"
+        ],
+        "pins": [
+            {
+                "id": "1442234401.000025",
+                "type": "C",
+                "user": "U0AHQ8HD3",
+                "owner": "U0AHQ8HD3",
+                "created": "1442234622"
+            }
+        ],
+        "topic": {
+            "value": "Company-wide announcements and work-based matters",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C0AKQ9VFC",
+        "name": "metax",
+        "created": "1442236899",
+        "creator": "U0AHU8RU0",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKR593L",
+            "U0AKU18CW",
+            "U0AKV0F0W",
+            "U0AKWDA9H",
+            "U0APA9ZUP",
+            "U0AQ1LRBQ"
+        ],
+        "pins": [
+            {
+                "id": "1442776105.000052",
+                "type": "C",
+                "user": "U0APA9ZUP",
+                "owner": "U0AKGKRST",
+                "created": "1442777329"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Experimental ideas, useful hacks, and quirky projects, that push the boundaries of how we live and interact in KGP.",
+            "creator": "U0AHQ8HD3",
+            "last_set": "1442427288"
+        }
+    },
+    {
+        "id": "C0AMDBPDG",
+        "name": "photograph-collection",
+        "created": "1442304264",
+        "creator": "U0AJEBGBU",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKU18CW",
+            "U0APA9ZUP"
+        ],
+        "pins": [
+            {
+                "id": "1442304274.000004",
+                "type": "C",
+                "user": "U0AJEBGBU",
+                "owner": "U0AJEBGBU",
+                "created": "1442304307"
+            },
+            {
+                "id": "1442585310.000019",
+                "type": "C",
+                "user": "U0AHSU2KF",
+                "owner": "U0AKGKRST",
+                "created": "1442585721"
+            },
+            {
+                "id": "1442585493.000024",
+                "type": "C",
+                "user": "U0AHSU2KF",
+                "owner": "U0AJEBGBU",
+                "created": "1442586691"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Channel to coordinate collection of photographs for metaKGP",
+            "creator": "U0AJEBGBU",
+            "last_set": "1442304264"
+        }
+    },
+    {
+        "id": "C0AKQGN9G",
+        "name": "pr",
+        "created": "1442237160",
+        "creator": "U0AHU8RU0",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKJ9GET",
+            "U0AKWDA9H",
+            "U0APA9ZUP"
+        ],
+        "pins": [
+            {
+                "id": "1442301631.000004",
+                "type": "C",
+                "user": "U0AHSU2KF",
+                "owner": "U0AHQ8HD3",
+                "created": "1442302297"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "This is basically to handle all facebook page \/ PR related stuff. Motto : \"Go get em first years and PGs\" . Also, Marketing is a sad channel name, no?",
+            "creator": "U0AHU8RU0",
+            "last_set": "1442237161"
+        }
+    },
+    {
+        "id": "C0AHUL0JE",
+        "name": "random",
+        "created": "1442050480",
+        "creator": "U0AHQ8HD3",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKJ9GET",
+            "U0AKR593L",
+            "U0AKU18CW",
+            "U0AKV0F0W",
+            "U0AKWDA9H",
+            "U0APA9ZUP",
+            "U0AQ1LRBQ"
+        ],
+        "topic": {
+            "value": "Non-work banter and water cooler conversation",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C0B0WPURY",
+        "name": "recent-changes",
+        "created": "1442746849",
+        "creator": "U0AHQ8HD3",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0APA9ZUP"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Subscribe for automatic push notifications about important events on the wiki.",
+            "creator": "U0AHQ8HD3",
+            "last_set": "1442762435"
+        }
+    },
+    {
+        "id": "C0AHQDVEH",
+        "name": "server",
+        "created": "1442051440",
+        "creator": "U0AHQ8HD3",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AJEBGBU",
+            "U0AKGKRST",
+            "U0AKWDA9H",
+            "U0APA9ZUP"
+        ],
+        "pins": [
+            {
+                "id": "1442237717.000002",
+                "type": "C",
+                "user": "U0AHSU2KF",
+                "owner": "U0AHQ8HD3",
+                "created": "1442377045"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Channel for server admins",
+            "creator": "U0AHQ8HD3",
+            "last_set": "1442051441"
+        }
+    },
+    {
+        "id": "C0AU1DBBP",
+        "name": "sysop",
+        "created": "1442579076",
+        "creator": "U0AHQ8HD3",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Moderator stuff that someone gotta do.",
+            "creator": "U0AHQ8HD3",
+            "last_set": "1442579324"
+        }
+    },
+    {
+        "id": "C0AKGEP2A",
+        "name": "tkdp",
+        "created": "1442233415",
+        "creator": "U0AJEBGBU",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U0AHQ8HD3",
+            "U0AHSU2KF",
+            "U0AHU8RU0",
+            "U0AJEBGBU",
+            "U0AKJ9GET",
+            "U0AKU18CW",
+            "U0AKV0F0W",
+            "U0AKWDA9H",
+            "U0APA9ZUP",
+            "U0AQ1LRBQ"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "TKDP: The KGP Documentation Project",
+            "creator": "U0AHQ8HD3",
+            "last_set": "1442233740"
+        }
+    }
+]

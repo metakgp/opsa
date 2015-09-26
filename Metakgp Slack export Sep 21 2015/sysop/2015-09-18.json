@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442579076.000002"
+    },
+    {
+        "user": "U0AJEBGBU",
+        "inviter": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442579146.000003"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "inviter": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442579147.000004"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "inviter": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442579147.000005"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "old_name": "admins",
+        "name": "admin",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U0AHQ8HD3|amrav> has renamed the channel from \"admins\" to \"admin\"",
+        "ts": "1442579176.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Ey patrol pliss everyone. I\u2019m greeted by a sea of red exclamation marks every time I visit Recent Changes :confused:",
+        "ts": "1442579226.000007"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "purpose": "Moderator stuff that someone gotta do.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHQ8HD3|amrav> set the channel purpose: Moderator stuff that someone gotta do.",
+        "ts": "1442579324.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Ah. Had less frequent visits due to exam.",
+        "ts": "1442585169.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I think a couple of new accounts are spam.",
+        "ts": "1442640618.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<https:\/\/wiki.metakgp.org\/w\/User:TeganDrago08905>",
+        "ts": "1442640623.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "For example.",
+        "ts": "1442640625.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "No strong reasons to believe, but the username comes up very synthetic.",
+        "ts": "1442640641.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Yeah, I saw that too. I think we can go ahead and ban them, and then see if anyone complains.",
+        "ts": "1442644803.000006"
+    }
+]

@@ -1,0 +1,630 @@
+[
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: Yeah, I have gone through it now.",
+        "ts": "1442653193.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHQ8HD3> I think it\u2019s ben long and we should change the featured articles.",
+        "ts": "1442658894.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Constitution can be one.",
+        "ts": "1442658918.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: What version of MediaWiki is the wiki currently running on?",
+        "ts": "1442659090.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: Yeah, I\u2019ve been meaning to feature another article for a while now. Constitution is kind of long and boring, maybe its better to use it for fun facts. I want to feature the Robotics page (need to do some clean up), and the GC page (waiting for pictures).",
+        "ts": "1442659158.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0APA9ZUP>: See Special:Version, it\u2019s 1.24+",
+        "ts": "1442659186.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: Do you have any plans of upgrading to 1.25 ? (There are saner defaults in the MediaWiki 1.25 API)",
+        "ts": "1442659225.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Which pictures are you waiting for?",
+        "ts": "1442659323.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Not immediately. There\u2019s lots to be done in terms of just content, and upgrading will mean putting the wiki into read only mode for a day or two at least.",
+        "ts": "1442659363.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "<@U0AKGKRST>: Pictures of GC events by the photo secretary. The page looks nice, but it can look really awesome with photos of ad design etc.",
+        "ts": "1442659411.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AHQ8HD3>: :+1: Thanks!",
+        "ts": "1442659487.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "I see the GC page empty",
+        "edited": {
+            "user": "U0AKGKRST",
+            "ts": "1442659553.000000"
+        },
+        "ts": "1442659546.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "wanna meet for Dinner tonight?",
+        "ts": "1442669188.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Who's treat? :smile:",
+        "ts": "1442669205.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "at RP\/Azad's mess :stuck_out_tongue:",
+        "ts": "1442669252.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Wow! -_-",
+        "ts": "1442669275.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "+1",
+        "ts": "1442669313.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "mess -_-",
+        "ts": "1442669663.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Carlos :confused:",
+        "ts": "1442669691.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "Carlos bhi peace hai",
+        "ts": "1442669759.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "<@U0AHU8RU0>: You?",
+        "ts": "1442669785.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Or we will barge into <@U0AHU8RU0> s room and ask Carlos to deliver there :stuck_out_tongue:",
+        "ts": "1442669827.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<@U0AKGKRST>: I'll be there in 15 min",
+        "ts": "1442671351.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Cool",
+        "ts": "1442671381.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I won't be able to make it there",
+        "ts": "1442672789.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "<@U0APA9ZUP> <@U0AJEBGBU> \nThe list posted here <http:\/\/noticeboard.iitkgp.ernet.in\/bcrth\/> doesn't seem to be complete.\nLook at this, which is pasted on the OPD counter.\n<https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2b\/List_of_doctors_BC_Roy_Sept_19_2015.pdf>\nCan we get this somewhere on the site?",
+        "ts": "1442673474.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AKU18CW>: As a matter of fact there are two levels to this list:\n\n1. Visiting doctors: This list changes less often (has remained the same since July 2015)\n\n2. General physicians (This list changes every week)",
+        "ts": "1442673634.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "The photo you have just uploaded is a merge of the two files 116.doc and 137.doc",
+        "ts": "1442673650.000037"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0APA9ZUP|icyflame> uploaded a file: <https:\/\/metakgp.slack.com\/files\/icyflame\/F0B0CCY7L\/116.doc|116.doc> and commented: Visiting doctors w.e.f July 2015\r\n\r\n<http:\/\/noticeboard.iitkgp.ernet.in\/bcrth\/notice.php?sr_no=116>",
+        "file": {
+            "id": "F0B0CCY7L",
+            "created": 1442673683,
+            "timestamp": 1442673683,
+            "name": "116.doc",
+            "title": "116.doc",
+            "mimetype": "application\/msword",
+            "filetype": "doc",
+            "pretty_type": "Word Document",
+            "user": "U0APA9ZUP",
+            "editable": false,
+            "size": 72704,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T0AHQ612B-F0B0CCY7L-c703668047\/116.doc",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T0AHQ612B-F0B0CCY7L-c703668047\/download\/116.doc",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0AHQ612B-F0B0CCY7L\/116.doc",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0AHQ612B-F0B0CCY7L\/download\/116.doc",
+            "permalink": "https:\/\/metakgp.slack.com\/files\/icyflame\/F0B0CCY7L\/116.doc",
+            "permalink_public": "https:\/\/slack-files.com\/T0AHQ612B-F0B0CCY7L-c703668047",
+            "channels": [
+                "C0AHUF5R7"
+            ],
+            "groups": [
+
+            ],
+            "ims": [
+
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc0B0CCF41",
+                "created": 1442673683,
+                "timestamp": 1442673683,
+                "user": "U0APA9ZUP",
+                "comment": "Visiting doctors w.e.f July 2015\r\n\r\n<http:\/\/noticeboard.iitkgp.ernet.in\/bcrth\/notice.php?sr_no=116>"
+            }
+        },
+        "user": "U0APA9ZUP",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0APA9ZUP|icyflame>",
+        "bot_id": null,
+        "ts": "1442673684.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<http:\/\/noticeboard.iitkgp.ernet.in\/hub\/>",
+        "ts": "1442714872.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "The message board is interesting",
+        "ts": "1442714880.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AKU18CW>: May be you can just try mailing the people who might be listed as incharge or whatever in those lists.",
+        "ts": "1442714926.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "The wiki has its first masked vigilante <https:\/\/wiki.metakgp.org\/w\/User:Batman>. Take a look at the history of the Kshitij page to see what it did. ",
+        "ts": "1442723545.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Sockpuppet? :stuck_out_tongue:",
+        "ts": "1442729736.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I guess Siddharth Agarwal is known enough to have his own page.",
+        "ts": "1442730210.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "(The Asidity guy)",
+        "ts": "1442730217.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Known - with respect to media coverage.",
+        "ts": "1442730241.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Yea",
+        "ts": "1442730314.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AJEBGBU>: I hope you are taking care of documenting the history of metaKGP itself.",
+        "ts": "1442730405.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": ":stuck_out_tongue:",
+        "ts": "1442730408.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "<@U0AKU18CW>: , <@U0AHSU2KF>: Although, Faculty Hub is a (really) interesting read ( :stuck_out_tongue: ) , what would we have to do with it?",
+        "ts": "1442731381.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Nothing! :smile: have fun :stuck_out_tongue:",
+        "ts": "1442731397.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Argh. I always fuck up moves.",
+        "ts": "1442731415.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "Okay! :stuck_out_tongue:",
+        "ts": "1442731450.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0APA9ZUP",
+        "text": "And Batman ? Shell script ?",
+        "ts": "1442731455.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AKGKRST>: Is ASID graduating this year or has he already?",
+        "ts": "1442731469.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Also his department?",
+        "ts": "1442731472.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Batman : Fight crimes. That was cool :simple_smile:",
+        "ts": "1442731477.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "Indu",
+        "ts": "1442731480.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AKGKRST",
+        "text": "And graduated",
+        "ts": "1442731483.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "<@U0AKU18CW>: Just beat you in scores! :stuck_out_tongue:",
+        "ts": "1442731489.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "B|",
+        "ts": "1442731498.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Hah! :stuck_out_tongue:",
+        "ts": "1442731517.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "#LikeABoss",
+        "ts": "1442731527.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Not even close in 'All time'",
+        "ts": "1442731534.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Aim for 7 days and 30 days! :stuck_out_tongue:",
+        "ts": "1442731557.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "hmm hmm\nLet Mid sems end",
+        "ts": "1442731585.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "We'll do much better",
+        "ts": "1442731599.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": ":simple_smile:",
+        "ts": "1442731601.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Well well.",
+        "ts": "1442731613.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Bring it on.",
+        "ts": "1442731619.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": ":smile:",
+        "ts": "1442731625.000030"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "<https:\/\/wiki.metakgp.org\/w\/Siddharth_Agarwal>\nOkay so we are making pages of important students of the campus.",
+        "ts": "1442731675.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Cool",
+        "ts": "1442731683.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "He'a graduated now. So, very tiny chances of controversy. If any.",
+        "ts": "1442731733.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "It's good to put graduated people",
+        "ts": "1442731770.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Like, we can make of Biswapati Sarkar and peers",
+        "ts": "1442731786.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Yeah. Totally.",
+        "ts": "1442731810.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "If you look closely, there's just too much content waiting out there, crying to be written out somewhere.",
+        "ts": "1442731836.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I can *feel* it",
+        "ts": "1442731854.000038"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "*shivers(=*",
+        "ts": "1442731863.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "_chills_",
+        "ts": "1442731876.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Why not a template for students?",
+        "ts": "1442731878.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "PS. How to make template?",
+        "ts": "1442731892.000042"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "*infobox",
+        "ts": "1442731895.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "We don't need separate for students.",
+        "ts": "1442731902.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Infobox Person should be sufficient.",
+        "ts": "1442731911.000045"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Oh, didn't see that",
+        "ts": "1442731921.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "It's pretty easy. Checkout the example of Infobox Hall.",
+        "ts": "1442731940.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "Can we use Wikipedia's template infobox? And how?",
+        "ts": "1442731957.000048"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "You mean to import any infobox from Wikipedia?",
+        "ts": "1442732053.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "yes",
+        "ts": "1442732062.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "like I was writing for hospital. There's already one of that in wikipedia",
+        "ts": "1442732078.000051"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "I must have imported it, I guess.",
+        "ts": "1442732089.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Checkout all pages with Template prefix to ensure that you aren't duplicating it.",
+        "ts": "1442732100.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "If it's plain simple (no intricate module dependencies) you can simply copy paste the source.",
+        "ts": "1442732111.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Otherwise, use Special:Export_Pages option from Wikipedia to export templates and then import on our site.",
+        "ts": "1442732135.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "A blank search of 'Template:' returns 27 of 310 results. Is there a special page where this is enlisted?",
+        "ts": "1442732192.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Yeah.",
+        "ts": "1442732203.000057"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Checkout Special Pages section",
+        "ts": "1442732210.000058"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "There you have more advanced options of listing out pages with a Prefix, or within a namespace and so on.",
+        "ts": "1442732227.000059"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "Play around a bit with that area.",
+        "ts": "1442732232.000060"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "hmm.. thanks",
+        "ts": "1442732242.000061"
+    },
+    {
+        "type": "message",
+        "user": "U0AHSU2KF",
+        "text": "The Special spot! :stuck_out_tongue:",
+        "ts": "1442732247.000062"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": ":stuck_out_tongue:",
+        "ts": "1442732262.000063"
+    },
+    {
+        "type": "message",
+        "user": "U0AKU18CW",
+        "text": "I just go there for scores :stuck_out_tongue:",
+        "ts": "1442732278.000064"
+    }
+]

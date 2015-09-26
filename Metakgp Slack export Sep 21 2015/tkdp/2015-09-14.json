@@ -1,0 +1,198 @@
+[
+    {
+        "user": "U0AJEBGBU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AJEBGBU|hargup> has joined the channel",
+        "ts": "1442233415.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "Here is a draft for the documentation project",
+        "ts": "1442233434.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "<https:\/\/wiki.metakgp.org\/w\/Metakgp:KGP_Documentation_Project>",
+        "ts": "1442233435.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "we aim to collect oral histories of canteen owners\/ shop owners and cycle repair workers and hall workers",
+        "ts": "1442233480.000005"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHQ8HD3|amrav> has joined the channel",
+        "ts": "1442233671.000006"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "old_name": "kgp-documentation-pro",
+        "name": "tkdp",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U0AHQ8HD3|amrav> has renamed the channel from \"kgp-documentation-pro\" to \"tkdp\"",
+        "ts": "1442233709.000007"
+    },
+    {
+        "user": "U0AHQ8HD3",
+        "purpose": "TKDP: The KGP Documentation Project",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U0AHQ8HD3|amrav> set the channel purpose: TKDP: The KGP Documentation Project",
+        "ts": "1442233740.000008"
+    },
+    {
+        "user": "U0AKU18CW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKU18CW|himanshu> has joined the channel",
+        "ts": "1442245254.000009"
+    },
+    {
+        "user": "U0AKJ9GET",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKJ9GET|whiplash> has joined the channel",
+        "ts": "1442246639.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "Start with the barber on PAN loop. He takes his time with the haircut, but he's a treasure trove of stories. You'll need more than one haircut to get it all out of him.",
+        "ts": "1442246700.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Haha :simple_smile:",
+        "ts": "1442246802.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "I'd have done this if I was still there. I used to go to him. And this was something I always wanted to do.",
+        "ts": "1442246967.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "Maybe when you visit campus, we can interview him?",
+        "ts": "1442247009.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "(which is hopefully soon? :P)",
+        "ts": "1442247024.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "<https:\/\/wiki.metakgp.org\/w\/Metakgp_talk:KGP_Documentation_Project>",
+        "ts": "1442247394.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "Haha, maybe. :stuck_out_tongue:",
+        "ts": "1442247408.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "Search\/ask for anecdotes. That's what people want to read, eventually.",
+        "ts": "1442247518.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "yup, we all love good stories. btw we plan to record them talking.",
+        "ts": "1442247755.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "It\u2019ll be an interview. Hopefully it\u2019ll be interesting enough to release as a podcast. BTW, check out <https:\/\/www.youtube.com\/user\/blankonblank>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Blank on Blank",
+                "title_link": "https:\/\/www.youtube.com\/user\/blankonblank",
+                "text": "Vintage interview tapes. New animations. We transform journalists' unheard interviews with cultural icons. The future of journalism is remixing the past. Exe...",
+                "fallback": "YouTube: Blank on Blank",
+                "thumb_url": "https:\/\/yt3.ggpht.com\/-9PMy9cy-0Qc\/AAAAAAAAAAI\/AAAAAAAAAAA\/s08N95_IFOc\/s900-c-k-no\/photo.jpg",
+                "from_url": "https:\/\/www.youtube.com\/user\/blankonblank",
+                "thumb_width": 900,
+                "thumb_height": 900,
+                "id": 1
+            }
+        ],
+        "ts": "1442247970.000020"
+    },
+    {
+        "user": "U0AHU8RU0",
+        "inviter": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHU8RU0|nuwanda> has joined the channel",
+        "ts": "1442247994.000022"
+    },
+    {
+        "user": "U0AHSU2KF",
+        "inviter": "U0AHQ8HD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AHSU2KF|xtinct> has joined the channel",
+        "ts": "1442247995.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "I've seen Blank on Blank. Really cool stuff.",
+        "ts": "1442248542.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "Podcast is bonus content though. People who do the interview can release it under the 'KGP Oral History Project', IMO. Would be really cool.",
+        "ts": "1442248608.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "That's a much better name, I'm changing the name",
+        "ts": "1442250218.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0AHQ8HD3",
+        "text": "I like tkdp more :P",
+        "ts": "1442250666.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0AKJ9GET",
+        "text": "tkdp is nice. :stuck_out_tongue:",
+        "ts": "1442251021.000028"
+    },
+    {
+        "type": "message",
+        "user": "U0AJEBGBU",
+        "text": "okay we have majority for tkdp, it also resembles our beloved tldp",
+        "ts": "1442251194.000029"
+    },
+    {
+        "user": "U0AKWDA9H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AKWDA9H|kumarkrishna> has joined the channel",
+        "ts": "1442299614.000002"
+    }
+]
